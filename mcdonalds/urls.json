@@ -1,0 +1,28 @@
+{
+    "loc": [
+        {
+            "lat": "40.7127753",
+            "lang": "-74.0059728",
+            "radius": "8.045",
+            "results": "30",
+            "country": "us",
+            "language": "en-us"
+        },
+        {
+            "lat": "34.0007104",
+            "lang": "-81.0348144",
+            "radius": "8.045",
+            "results": "30",
+            "country": "us",
+            "language": "en-us"
+        },
+        {
+            "lat": "13.515531",
+            "lang": "144.8346748",
+            "radius": "8.045",
+            "results": "30",
+            "country": "us",
+            "language": "en-us"
+        }
+    ]
+}

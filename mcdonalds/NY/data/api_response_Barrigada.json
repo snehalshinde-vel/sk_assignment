@@ -1,0 +1,398 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    144.819272,
+                    13.509503
+                ]
+            },
+            "properties": {
+                "shortDescription": "ROUTE 16",
+                "longDescription": "HARMON ROUTE 16",
+                "todayHours": "00:00 - 00:00",
+                "driveTodayHours": "00:00 - 00:00",
+                "id": "195500383217:en-US",
+                "filterType": [
+                    "DRIVETHRU",
+                    "LINKEDPAY",
+                    "LOYALTY",
+                    "MOBILEOFFERS",
+                    "MOBILEORDERS",
+                    "ROA",
+                    "TWENTYFOURHOURS",
+                    "WIFI"
+                ],
+                "addressLine1": "1901 Route 16",
+                "addressLine3": "Dededo",
+                "addressLine4": "United States",
+                "subDivision": "GU",
+                "postcode": "96913",
+                "customAddress": "Dededo, GU 96913",
+                "telephone": "(671) 646-8475",
+                "restauranthours": {
+                    "hoursMonday": "00:00 - 00:00",
+                    "hoursTuesday": "00:00 - 00:00",
+                    "hoursWednesday": "00:00 - 00:00",
+                    "hoursThursday": "00:00 - 00:00",
+                    "hoursFriday": "00:00 - 00:00",
+                    "hoursSaturday": "00:00 - 00:00",
+                    "hoursSunday": "00:00 - 00:00"
+                },
+                "drivethruhours": {
+                    "driveHoursMonday": "00:00 - 00:00",
+                    "driveHoursTuesday": "00:00 - 00:00",
+                    "driveHoursWednesday": "00:00 - 00:00",
+                    "driveHoursThursday": "00:00 - 00:00",
+                    "driveHoursFriday": "00:00 - 00:00",
+                    "driveHoursSaturday": "00:00 - 00:00",
+                    "driveHoursSunday": "00:00 - 00:00"
+                },
+                "identifiers": {
+                    "storeIdentifier": [
+                        {
+                            "identifierType": "NATLSTRNUMBER",
+                            "identifierValue": "11625"
+                        },
+                        {
+                            "identifierType": "Entity",
+                            "identifierValue": "31907"
+                        },
+                        {
+                            "identifierType": "Region ID",
+                            "identifierValue": "68"
+                        },
+                        {
+                            "identifierType": "Co-Op",
+                            "identifierValue": "WALNUT CREEK FIELD OFFICE"
+                        },
+                        {
+                            "identifierType": "Co-Op ID",
+                            "identifierValue": "155"
+                        },
+                        {
+                            "identifierType": "Co-Op Name",
+                            "identifierValue": "GUAM"
+                        },
+                        {
+                            "identifierType": "TV-Market ID",
+                            "identifierValue": "13700"
+                        },
+                        {
+                            "identifierType": "TV-Market Name",
+                            "identifierValue": "GUAM"
+                        }
+                    ]
+                },
+                "birthDaysParties": "0",
+                "driveThru": "0",
+                "outDoorPlayGround": "0",
+                "indoorPlayGround": "0",
+                "wifi": "0",
+                "breakFast": "0",
+                "nightMenu": "0",
+                "giftCards": "0",
+                "mobileOffers": "0",
+                "openstatus": "OPEN",
+                "identifierValue": "11625",
+                "timeZone": "(GMT+10:00) Guam, Port Moresby"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    144.792583,
+                    13.493125
+                ]
+            },
+            "properties": {
+                "shortDescription": "TAMUNING",
+                "longDescription": "TAMUNING",
+                "todayHours": "00:00 - 00:00",
+                "driveTodayHours": "00:00 - 00:00",
+                "id": "195500383187:en-US",
+                "filterType": [
+                    "DRIVETHRU",
+                    "INDOORDINING",
+                    "LINKEDPAY",
+                    "LOYALTY",
+                    "MOBILEOFFERS",
+                    "MOBILEORDERS",
+                    "ROA",
+                    "TWENTYFOURHOURS",
+                    "WIFI"
+                ],
+                "addressLine1": "185 S Marine Dr",
+                "addressLine3": "Tamuning",
+                "addressLine4": "United States",
+                "subDivision": "GU",
+                "postcode": "96913",
+                "customAddress": "Tamuning, GU 96913",
+                "telephone": "(671) 646-4052",
+                "restauranthours": {
+                    "hoursMonday": "00:00 - 00:00",
+                    "hoursTuesday": "00:00 - 00:00",
+                    "hoursWednesday": "00:00 - 00:00",
+                    "hoursThursday": "00:00 - 00:00",
+                    "hoursFriday": "00:00 - 00:00",
+                    "hoursSaturday": "00:00 - 00:00",
+                    "hoursSunday": "00:00 - 00:00"
+                },
+                "drivethruhours": {
+                    "driveHoursMonday": "00:00 - 00:00",
+                    "driveHoursTuesday": "00:00 - 00:00",
+                    "driveHoursWednesday": "00:00 - 00:00",
+                    "driveHoursThursday": "00:00 - 00:00",
+                    "driveHoursFriday": "00:00 - 00:00",
+                    "driveHoursSaturday": "00:00 - 00:00",
+                    "driveHoursSunday": "00:00 - 00:00"
+                },
+                "identifiers": {
+                    "storeIdentifier": [
+                        {
+                            "identifierType": "NATLSTRNUMBER",
+                            "identifierValue": "1773"
+                        },
+                        {
+                            "identifierType": "Entity",
+                            "identifierValue": "31903"
+                        },
+                        {
+                            "identifierType": "Region ID",
+                            "identifierValue": "68"
+                        },
+                        {
+                            "identifierType": "Co-Op",
+                            "identifierValue": "WALNUT CREEK FIELD OFFICE"
+                        },
+                        {
+                            "identifierType": "Co-Op ID",
+                            "identifierValue": "155"
+                        },
+                        {
+                            "identifierType": "Co-Op Name",
+                            "identifierValue": "GUAM"
+                        },
+                        {
+                            "identifierType": "TV-Market ID",
+                            "identifierValue": "13700"
+                        },
+                        {
+                            "identifierType": "TV-Market Name",
+                            "identifierValue": "GUAM"
+                        }
+                    ]
+                },
+                "birthDaysParties": "0",
+                "driveThru": "0",
+                "outDoorPlayGround": "0",
+                "indoorPlayGround": "0",
+                "wifi": "0",
+                "breakFast": "0",
+                "nightMenu": "0",
+                "giftCards": "0",
+                "mobileOffers": "0",
+                "openstatus": "OPEN",
+                "identifierValue": "1773",
+                "timeZone": "(GMT+10:00) Guam, Port Moresby"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    144.88421,
+                    13.52672
+                ]
+            },
+            "properties": {
+                "shortDescription": "YIGO RELO - CHIN",
+                "longDescription": "YIGO - PEREZ ACRES",
+                "todayHours": "00:00 - 00:00",
+                "driveTodayHours": "00:00 - 00:00",
+                "id": "195500852324:en-US",
+                "filterType": [
+                    "DRIVETHRU",
+                    "INDOORDINING",
+                    "LINKEDPAY",
+                    "LOYALTY",
+                    "MOBILEOFFERS",
+                    "MOBILEORDERS",
+                    "ROA",
+                    "TWENTYFOURHOURS",
+                    "WIFI"
+                ],
+                "addressLine1": "435 Route 1 Marine Corps Drive",
+                "addressLine3": "Yigo",
+                "addressLine4": "United States",
+                "subDivision": "GU",
+                "postcode": "96929",
+                "customAddress": "Yigo, GU 96929",
+                "telephone": "(671) 653-8740",
+                "restauranthours": {
+                    "hoursMonday": "00:00 - 00:00",
+                    "hoursTuesday": "00:00 - 00:00",
+                    "hoursWednesday": "00:00 - 00:00",
+                    "hoursThursday": "00:00 - 00:00",
+                    "hoursFriday": "00:00 - 00:00",
+                    "hoursSaturday": "00:00 - 00:00",
+                    "hoursSunday": "00:00 - 00:00"
+                },
+                "drivethruhours": {
+                    "driveHoursMonday": "00:00 - 00:00",
+                    "driveHoursTuesday": "00:00 - 00:00",
+                    "driveHoursWednesday": "00:00 - 00:00",
+                    "driveHoursThursday": "00:00 - 00:00",
+                    "driveHoursFriday": "00:00 - 00:00",
+                    "driveHoursSaturday": "00:00 - 00:00",
+                    "driveHoursSunday": "00:00 - 00:00"
+                },
+                "identifiers": {
+                    "storeIdentifier": [
+                        {
+                            "identifierType": "NATLSTRNUMBER",
+                            "identifierValue": "37382"
+                        },
+                        {
+                            "identifierType": "Entity",
+                            "identifierValue": "205576"
+                        },
+                        {
+                            "identifierType": "Region ID",
+                            "identifierValue": "68"
+                        },
+                        {
+                            "identifierType": "Co-Op",
+                            "identifierValue": "WALNUT CREEK FIELD OFFICE"
+                        },
+                        {
+                            "identifierType": "Co-Op ID",
+                            "identifierValue": "155"
+                        },
+                        {
+                            "identifierType": "Co-Op Name",
+                            "identifierValue": "GUAM"
+                        },
+                        {
+                            "identifierType": "TV-Market ID",
+                            "identifierValue": "13700"
+                        },
+                        {
+                            "identifierType": "TV-Market Name",
+                            "identifierValue": "GUAM"
+                        }
+                    ]
+                },
+                "birthDaysParties": "0",
+                "driveThru": "0",
+                "outDoorPlayGround": "0",
+                "indoorPlayGround": "0",
+                "wifi": "0",
+                "breakFast": "0",
+                "nightMenu": "0",
+                "giftCards": "0",
+                "mobileOffers": "0",
+                "openstatus": "OPEN",
+                "identifierValue": "37382",
+                "timeZone": "(GMT+10:00) Guam, Port Moresby"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    144.781142,
+                    13.474858
+                ]
+            },
+            "properties": {
+                "shortDescription": "MAITE-OIL",
+                "longDescription": "MAITE-OIL",
+                "todayHours": "00:00 - 00:00",
+                "driveTodayHours": "00:00 - 00:00",
+                "id": "195500383248:en-US",
+                "filterType": [
+                    "DRIVETHRU",
+                    "LINKEDPAY",
+                    "LOYALTY",
+                    "MOBILEOFFERS",
+                    "MOBILEORDERS",
+                    "ROA",
+                    "TWENTYFOURHOURS",
+                    "WIFI"
+                ],
+                "addressLine1": "384 West Route 8",
+                "addressLine3": "Barrigada",
+                "addressLine4": "United States",
+                "subDivision": "GU",
+                "postcode": "96913",
+                "customAddress": "Barrigada, GU 96913",
+                "telephone": "(671) 472-2578",
+                "restauranthours": {
+                    "hoursMonday": "00:00 - 00:00",
+                    "hoursTuesday": "00:00 - 00:00",
+                    "hoursWednesday": "00:00 - 00:00",
+                    "hoursThursday": "00:00 - 00:00",
+                    "hoursFriday": "00:00 - 00:00",
+                    "hoursSaturday": "00:00 - 00:00",
+                    "hoursSunday": "00:00 - 00:00"
+                },
+                "drivethruhours": {
+                    "driveHoursMonday": "00:00 - 00:00",
+                    "driveHoursTuesday": "00:00 - 00:00",
+                    "driveHoursWednesday": "00:00 - 00:00",
+                    "driveHoursThursday": "00:00 - 00:00",
+                    "driveHoursFriday": "00:00 - 00:00",
+                    "driveHoursSaturday": "00:00 - 00:00",
+                    "driveHoursSunday": "00:00 - 00:00"
+                },
+                "identifiers": {
+                    "storeIdentifier": [
+                        {
+                            "identifierType": "NATLSTRNUMBER",
+                            "identifierValue": "18331"
+                        },
+                        {
+                            "identifierType": "Entity",
+                            "identifierValue": "31916"
+                        },
+                        {
+                            "identifierType": "Region ID",
+                            "identifierValue": "68"
+                        },
+                        {
+                            "identifierType": "Co-Op",
+                            "identifierValue": "WALNUT CREEK FIELD OFFICE"
+                        },
+                        {
+                            "identifierType": "Co-Op ID",
+                            "identifierValue": "155"
+                        },
+                        {
+                            "identifierType": "Co-Op Name",
+                            "identifierValue": "GUAM"
+                        },
+                        {
+                            "identifierType": "TV-Market ID",
+                            "identifierValue": "13700"
+                        },
+                        {
+                            "identifierType": "TV-Market Name",
+                            "identifierValue": "GUAM"
+                        }
+                    ]
+                },
+                "birthDaysParties": "0",
+                "driveThru": "0",
+                "outDoorPlayGround": "0",
+                "indoorPlayGround": "0",
+                "wifi": "0",
+                "breakFast": "0",
+                "nightMenu": "0",
+                "giftCards": "0",
+                "mobileOffers": "0",
+                "openstatus": "OPEN",
+                "identifierValue": "18331",
+                "timeZone": "(GMT+10:00) Guam, Port Moresby"
+            }
+        }
+    ]
+}

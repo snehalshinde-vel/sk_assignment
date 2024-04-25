@@ -1,0 +1,3534 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -74.010086,
+                    40.709438
+                ]
+            },
+            "properties": {
+                "jobUrl": "https://jobs.mchire.com/jobs?s\u003d160+BROADWAY%2c+New+York%2c+NY",
+                "MCDELIVERY_URL": "https://www.ubereats.com/store/mcdonalds-fidi-160-broadway/Cn7rm31RTym93cHeWFUSow",
+                "shortDescription": "160 BROADWAY",
+                "longDescription": "160 BROADWAY",
+                "todayHours": "00:00 - 00:00",
+                "driveTodayHours": "00:00 - 00:00",
+                "id": "195500284446:en-US",
+                "filterType": [
+                    "GIFTCARDS",
+                    "INDOORDINING",
+                    "KIOSKAUDIOACCESSIBILITY",
+                    "LINKEDPAY",
+                    "LOYALTY",
+                    "MCDELIVERY",
+                    "MOBILEOFFERS",
+                    "MOBILEORDERS",
+                    "NED",
+                    "ROA",
+                    "TWENTYFOURHOURS",
+                    "WIFI"
+                ],
+                "addressLine1": "160 Broadway",
+                "addressLine3": "New York",
+                "addressLine4": "United States",
+                "subDivision": "NY",
+                "postcode": "10038",
+                "customAddress": "New York, NY 10038",
+                "telephone": "(212) 385-2066",
+                "restauranthours": {
+                    "hoursMonday": "00:00 - 00:00",
+                    "hoursTuesday": "00:00 - 00:00",
+                    "hoursWednesday": "00:00 - 00:00",
+                    "hoursThursday": "00:00 - 00:00",
+                    "hoursFriday": "00:00 - 00:00",
+                    "hoursSaturday": "00:00 - 00:00",
+                    "hoursSunday": "00:00 - 00:00"
+                },
+                "identifiers": {
+                    "storeIdentifier": [
+                        {
+                            "identifierType": "NATLSTRNUMBER",
+                            "identifierValue": "10528"
+                        },
+                        {
+                            "identifierType": "Entity",
+                            "identifierValue": "20199"
+                        },
+                        {
+                            "identifierType": "Region ID",
+                            "identifierValue": "30"
+                        },
+                        {
+                            "identifierType": "Co-Op",
+                            "identifierValue": "STAMFORD FIELD OFFICE"
+                        },
+                        {
+                            "identifierType": "Co-Op ID",
+                            "identifierValue": "246"
+                        },
+                        {
+                            "identifierType": "Co-Op Name",
+                            "identifierValue": "NEW YORK METRO"
+                        },
+                        {
+                            "identifierType": "TV-Market ID",
+                            "identifierValue": "16200"
+                        },
+                        {
+                            "identifierType": "TV-Market Name",
+                            "identifierValue": "NEW YORK CITY, NY"
+                        }
+                    ]
+                },
+                "birthDaysParties": "0",
+                "driveThru": "0",
+                "outDoorPlayGround": "0",
+                "indoorPlayGround": "0",
+                "wifi": "0",
+                "breakFast": "0",
+                "nightMenu": "0",
+                "giftCards": "0",
+                "mobileOffers": "0",
+                "restaurantUrl": "https://jobs.mchire.com/jobs?s\u003d160+BROADWAY%2c+New+York%2c+NY",
+                "openstatus": "OPEN",
+                "identifierValue": "10528",
+                "timeZone": "(GMT-05:00) Eastern Time (US \u0026 Canada)",
+                "mcDeliveries": {
+                    "mcDelivery": [
+                        {
+                            "identifier": "DOORDASH",
+                            "marketingName": "Door Dash",
+                            "deliveryURL": "https://www.doordash.com/store/837189"
+                        },
+                        {
+                            "identifier": "GRUBHUB",
+                            "marketingName": "Grub Hub",
+                            "deliveryURL": "https://grubhub.com/restaurant/1338459?utm_source\u003dmcdonalds_website\u0026utm_medium\u003denterprise-rest_partner\u0026utm_campaign\u003drest-brand_5de59e10-3ba6-11e9-b0a9-3d145c71a10c\u0026utm_content\u003dmcdonalds"
+                        },
+                        {
+                            "identifier": "UBEREATS",
+                            "marketingName": "Uber Eats",
+                            "deliveryURL": "https://www.ubereats.com/store/mcdonalds-fidi-160-broadway/Cn7rm31RTym93cHeWFUSow"
+                        },
+                        {
+                            "identifier": "MYMCDONALDS",
+                            "marketingName": "MyMcDonald\u0027s",
+                            "deliveryURL": "https://mcdonalds.smart.link/yotm502tc?site_id\u003ddownload-app\u0026amp;creative_id\u003d1col-publication"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -74.010736,
+                    40.716366
+                ]
+            },
+            "properties": {
+                "jobUrl": "https://jobs.mchire.com/jobs?s\u003d167+CHAMBERS+ST+(303+GREENWICH+ST)%2c+New+York%2c+NY",
+                "MCDELIVERY_URL": "https://www.ubereats.com/store/mcdonalds-tribeca-chambers-%26-greenwich/PbjRsUAQR1GHD1D0ZQqRCw",
+                "shortDescription": "CHAMBERS ST.",
+                "longDescription": "CHAMBERS ST.",
+                "todayHours": "00:00 - 00:00",
+                "driveTodayHours": "00:00 - 00:00",
+                "id": "195500284712:en-US",
+                "filterType": [
+                    "GIFTCARDS",
+                    "LINKEDPAY",
+                    "LOYALTY",
+                    "MCDELIVERY",
+                    "MOBILEOFFERS",
+                    "MOBILEORDERS",
+                    "ROA",
+                    "TWENTYFOURHOURS",
+                    "WIFI"
+                ],
+                "addressLine1": "167 Chambers St (Chambers \u0026 Greenwich)",
+                "addressLine3": "New York",
+                "addressLine4": "United States",
+                "subDivision": "NY",
+                "postcode": "10013",
+                "customAddress": "New York, NY 10013",
+                "telephone": "(212) 608-2405",
+                "restauranthours": {
+                    "hoursMonday": "00:00 - 00:00",
+                    "hoursTuesday": "00:00 - 00:00",
+                    "hoursWednesday": "00:00 - 00:00",
+                    "hoursThursday": "00:00 - 00:00",
+                    "hoursFriday": "00:00 - 00:00",
+                    "hoursSaturday": "00:00 - 00:00",
+                    "hoursSunday": "00:00 - 00:00"
+                },
+                "identifiers": {
+                    "storeIdentifier": [
+                        {
+                            "identifierType": "NATLSTRNUMBER",
+                            "identifierValue": "11163"
+                        },
+                        {
+                            "identifierType": "Entity",
+                            "identifierValue": "20301"
+                        },
+                        {
+                            "identifierType": "Region ID",
+                            "identifierValue": "30"
+                        },
+                        {
+                            "identifierType": "Co-Op",
+                            "identifierValue": "STAMFORD FIELD OFFICE"
+                        },
+                        {
+                            "identifierType": "Co-Op ID",
+                            "identifierValue": "246"
+                        },
+                        {
+                            "identifierType": "Co-Op Name",
+                            "identifierValue": "NEW YORK METRO"
+                        },
+                        {
+                            "identifierType": "TV-Market ID",
+                            "identifierValue": "16200"
+                        },
+                        {
+                            "identifierType": "TV-Market Name",
+                            "identifierValue": "NEW YORK CITY, NY"
+                        }
+                    ]
+                },
+                "birthDaysParties": "0",
+                "driveThru": "0",
+                "outDoorPlayGround": "0",
+                "indoorPlayGround": "0",
+                "wifi": "0",
+                "breakFast": "0",
+                "nightMenu": "0",
+                "giftCards": "0",
+                "mobileOffers": "0",
+                "restaurantUrl": "https://jobs.mchire.com/jobs?s\u003d167+CHAMBERS+ST+(303+GREENWICH+ST)%2c+New+York%2c+NY",
+                "openstatus": "OPEN",
+                "identifierValue": "11163",
+                "timeZone": "(GMT-05:00) Eastern Time (US \u0026 Canada)",
+                "mcDeliveries": {
+                    "mcDelivery": [
+                        {
+                            "identifier": "DOORDASH",
+                            "marketingName": "Door Dash",
+                            "deliveryURL": "https://www.doordash.com/store/837187"
+                        },
+                        {
+                            "identifier": "GRUBHUB",
+                            "marketingName": "Grub Hub",
+                            "deliveryURL": "https://grubhub.com/restaurant/6247208?utm_source\u003dmcdonalds_website\u0026utm_medium\u003denterprise-rest_partner\u0026utm_campaign\u003drest-brand_5de59e10-3ba6-11e9-b0a9-3d145c71a10c\u0026utm_content\u003dmcdonalds"
+                        },
+                        {
+                            "identifier": "UBEREATS",
+                            "marketingName": "Uber Eats",
+                            "deliveryURL": "https://www.ubereats.com/store/mcdonalds-tribeca-chambers-%26-greenwich/PbjRsUAQR1GHD1D0ZQqRCw"
+                        },
+                        {
+                            "identifier": "MYMCDONALDS",
+                            "marketingName": "MyMcDonald\u0027s",
+                            "deliveryURL": "https://mcdonalds.smart.link/yotm502tc?site_id\u003ddownload-app\u0026amp;creative_id\u003d1col-publication"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -74.001052,
+                    40.718587
+                ]
+            },
+            "properties": {
+                "jobUrl": "https://jobs.mchire.com/jobs?s\u003d262+CANAL+ST%2c+New+York%2c+NY",
+                "MCDELIVERY_URL": "https://www.ubereats.com/store/mcdonalds-chinatown-canal-st/J1GVi-cQTvuueL7b3qSk9w",
+                "shortDescription": "MANHATTAN-CANAL",
+                "longDescription": "MANHATTAN-CANAL",
+                "todayHours": "07:00 - 00:00",
+                "driveTodayHours": "07:00 - 00:00",
+                "id": "195500283562:en-US",
+                "filterType": [
+                    "GIFTCARDS",
+                    "INDOORDINING",
+                    "LINKEDPAY",
+                    "LOYALTY",
+                    "MCDELIVERY",
+                    "MOBILEOFFERS",
+                    "MOBILEORDERS",
+                    "NED",
+                    "ROA",
+                    "WIFI"
+                ],
+                "addressLine1": "262 Canal St",
+                "addressLine3": "New York",
+                "addressLine4": "United States",
+                "subDivision": "NY",
+                "postcode": "10013",
+                "customAddress": "New York, NY 10013",
+                "telephone": "(212) 941-5823",
+                "restauranthours": {
+                    "hoursMonday": "07:00 - 00:00",
+                    "hoursTuesday": "07:00 - 00:00",
+                    "hoursWednesday": "07:00 - 00:00",
+                    "hoursThursday": "07:00 - 00:00",
+                    "hoursFriday": "07:00 - 00:00",
+                    "hoursSaturday": "07:00 - 00:00",
+                    "hoursSunday": "07:00 - 00:00"
+                },
+                "identifiers": {
+                    "storeIdentifier": [
+                        {
+                            "identifierType": "NATLSTRNUMBER",
+                            "identifierValue": "4682"
+                        },
+                        {
+                            "identifierType": "Entity",
+                            "identifierValue": "19773"
+                        },
+                        {
+                            "identifierType": "Region ID",
+                            "identifierValue": "30"
+                        },
+                        {
+                            "identifierType": "Co-Op",
+                            "identifierValue": "STAMFORD FIELD OFFICE"
+                        },
+                        {
+                            "identifierType": "Co-Op ID",
+                            "identifierValue": "246"
+                        },
+                        {
+                            "identifierType": "Co-Op Name",
+                            "identifierValue": "NEW YORK METRO"
+                        },
+                        {
+                            "identifierType": "TV-Market ID",
+                            "identifierValue": "16200"
+                        },
+                        {
+                            "identifierType": "TV-Market Name",
+                            "identifierValue": "NEW YORK CITY, NY"
+                        }
+                    ]
+                },
+                "birthDaysParties": "0",
+                "driveThru": "0",
+                "outDoorPlayGround": "0",
+                "indoorPlayGround": "0",
+                "wifi": "0",
+                "breakFast": "0",
+                "nightMenu": "0",
+                "giftCards": "0",
+                "mobileOffers": "0",
+                "restaurantUrl": "https://jobs.mchire.com/jobs?s\u003d262+CANAL+ST%2c+New+York%2c+NY",
+                "openstatus": "OPEN",
+                "identifierValue": "4682",
+                "timeZone": "(GMT-05:00) Eastern Time (US \u0026 Canada)",
+                "mcDeliveries": {
+                    "mcDelivery": [
+                        {
+                            "identifier": "DOORDASH",
+                            "marketingName": "Door Dash",
+                            "deliveryURL": "https://www.doordash.com/store/837238"
+                        },
+                        {
+                            "identifier": "GRUBHUB",
+                            "marketingName": "Grub Hub",
+                            "deliveryURL": "https://grubhub.com/restaurant/1339415?utm_source\u003dmcdonalds_website\u0026utm_medium\u003denterprise-rest_partner\u0026utm_campaign\u003drest-brand_5de59e10-3ba6-11e9-b0a9-3d145c71a10c\u0026utm_content\u003dmcdonalds"
+                        },
+                        {
+                            "identifier": "UBEREATS",
+                            "marketingName": "Uber Eats",
+                            "deliveryURL": "https://www.ubereats.com/store/mcdonalds-chinatown-canal-st/J1GVi-cQTvuueL7b3qSk9w"
+                        },
+                        {
+                            "identifier": "MYMCDONALDS",
+                            "marketingName": "MyMcDonald\u0027s",
+                            "deliveryURL": "https://mcdonalds.smart.link/yotm502tc?site_id\u003ddownload-app\u0026amp;creative_id\u003d1col-publication"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.988281,
+                    40.71883
+                ]
+            },
+            "properties": {
+                "jobUrl": "https://jobs.mchire.com/jobs?s\u003d114+DELANCEY+ST%2c+New+York%2c+NY",
+                "MCDELIVERY_URL": "https://www.ubereats.com/store/mcdonalds-les-delancey-st/s5KzcRQfTUykmnFxWXF49Q",
+                "shortDescription": "DELANCY ST",
+                "longDescription": "DELANCEY ST",
+                "todayHours": "00:00 - 00:00",
+                "driveTodayHours": "00:00 - 00:00",
+                "id": "195500285511:en-US",
+                "filterType": [
+                    "GIFTCARDS",
+                    "INDOORDINING",
+                    "LINKEDPAY",
+                    "LOYALTY",
+                    "MCDELIVERY",
+                    "MOBILEOFFERS",
+                    "MOBILEORDERS",
+                    "NED",
+                    "ROA",
+                    "TWENTYFOURHOURS",
+                    "WIFI"
+                ],
+                "addressLine1": "114 Delancey St",
+                "addressLine3": "New York",
+                "addressLine4": "United States",
+                "subDivision": "NY",
+                "postcode": "10002",
+                "customAddress": "New York, NY 10002",
+                "telephone": "(212) 529-9770",
+                "restauranthours": {
+                    "hoursMonday": "00:00 - 00:00",
+                    "hoursTuesday": "00:00 - 00:00",
+                    "hoursWednesday": "00:00 - 00:00",
+                    "hoursThursday": "00:00 - 00:00",
+                    "hoursFriday": "00:00 - 00:00",
+                    "hoursSaturday": "00:00 - 00:00",
+                    "hoursSunday": "00:00 - 00:00"
+                },
+                "identifiers": {
+                    "storeIdentifier": [
+                        {
+                            "identifierType": "NATLSTRNUMBER",
+                            "identifierValue": "20219"
+                        },
+                        {
+                            "identifierType": "Entity",
+                            "identifierValue": "20625"
+                        },
+                        {
+                            "identifierType": "Region ID",
+                            "identifierValue": "30"
+                        },
+                        {
+                            "identifierType": "Co-Op",
+                            "identifierValue": "STAMFORD FIELD OFFICE"
+                        },
+                        {
+                            "identifierType": "Co-Op ID",
+                            "identifierValue": "246"
+                        },
+                        {
+                            "identifierType": "Co-Op Name",
+                            "identifierValue": "NEW YORK METRO"
+                        },
+                        {
+                            "identifierType": "TV-Market ID",
+                            "identifierValue": "16200"
+                        },
+                        {
+                            "identifierType": "TV-Market Name",
+                            "identifierValue": "NEW YORK CITY, NY"
+                        }
+                    ]
+                },
+                "birthDaysParties": "0",
+                "driveThru": "0",
+                "outDoorPlayGround": "0",
+                "indoorPlayGround": "0",
+                "wifi": "0",
+                "breakFast": "0",
+                "nightMenu": "0",
+                "giftCards": "0",
+                "mobileOffers": "0",
+                "restaurantUrl": "https://jobs.mchire.com/jobs?s\u003d114+DELANCEY+ST%2c+New+York%2c+NY",
+                "openstatus": "OPEN",
+                "identifierValue": "20219",
+                "timeZone": "(GMT-05:00) Eastern Time (US \u0026 Canada)",
+                "mcDeliveries": {
+                    "mcDelivery": [
+                        {
+                            "identifier": "DOORDASH",
+                            "marketingName": "Door Dash",
+                            "deliveryURL": "https://www.doordash.com/store/837200"
+                        },
+                        {
+                            "identifier": "GRUBHUB",
+                            "marketingName": "Grub Hub",
+                            "deliveryURL": "https://grubhub.com/restaurant/1338552?utm_source\u003dmcdonalds_website\u0026utm_medium\u003denterprise-rest_partner\u0026utm_campaign\u003drest-brand_5de59e10-3ba6-11e9-b0a9-3d145c71a10c\u0026utm_content\u003dmcdonalds"
+                        },
+                        {
+                            "identifier": "UBEREATS",
+                            "marketingName": "Uber Eats",
+                            "deliveryURL": "https://www.ubereats.com/store/mcdonalds-les-delancey-st/s5KzcRQfTUykmnFxWXF49Q"
+                        },
+                        {
+                            "identifier": "MYMCDONALDS",
+                            "marketingName": "MyMcDonald\u0027s",
+                            "deliveryURL": "https://mcdonalds.smart.link/yotm502tc?site_id\u003ddownload-app\u0026amp;creative_id\u003d1col-publication"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -74.00509,
+                    40.728794
+                ]
+            },
+            "properties": {
+                "jobUrl": "https://careers.mcdonalds.com/us-restaurants/jobs?page\u003d1\u0026stretch\u003d0\u0026stretchUnit\u003dMILES\u0026location\u003d208%20VARICK%20ST%20NEW%20YORK%20NY%2010014",
+                "MCDELIVERY_URL": "https://www.ubereats.com/store/mcdonalds-west-village-varick-%26-downing-st/vzioEVUtRDSaZXyfswAwgQ",
+                "shortDescription": "VARICK ST NYC",
+                "longDescription": "208 VARICK AND DOWNING STREET",
+                "todayHours": "07:00 - 22:30",
+                "driveTodayHours": "07:00 - 22:30",
+                "id": "195500329260:en-US",
+                "filterType": [
+                    "GIFTCARDS",
+                    "INDOORDINING",
+                    "KIOSKAUDIOACCESSIBILITY",
+                    "LINKEDPAY",
+                    "LOYALTY",
+                    "MCDELIVERY",
+                    "MOBILEOFFERS",
+                    "MOBILEORDERS",
+                    "ROA",
+                    "WIFI"
+                ],
+                "addressLine1": "208 Varick St",
+                "addressLine3": "New York",
+                "addressLine4": "United States",
+                "subDivision": "NY",
+                "postcode": "10014",
+                "customAddress": "New York, NY 10014",
+                "telephone": "(646) 483-9817",
+                "restauranthours": {
+                    "hoursMonday": "07:00 - 22:30",
+                    "hoursTuesday": "07:00 - 22:30",
+                    "hoursWednesday": "07:00 - 22:30",
+                    "hoursThursday": "07:00 - 22:30",
+                    "hoursFriday": "07:00 - 22:30",
+                    "hoursSaturday": "07:00 - 22:30",
+                    "hoursSunday": "07:00 - 22:30"
+                },
+                "identifiers": {
+                    "storeIdentifier": [
+                        {
+                            "identifierType": "NATLSTRNUMBER",
+                            "identifierValue": "23318"
+                        },
+                        {
+                            "identifierType": "Entity",
+                            "identifierValue": "44866"
+                        },
+                        {
+                            "identifierType": "Region ID",
+                            "identifierValue": "30"
+                        },
+                        {
+                            "identifierType": "Co-Op",
+                            "identifierValue": "STAMFORD FIELD OFFICE"
+                        },
+                        {
+                            "identifierType": "Co-Op ID",
+                            "identifierValue": "246"
+                        },
+                        {
+                            "identifierType": "Co-Op Name",
+                            "identifierValue": "NEW YORK METRO"
+                        },
+                        {
+                            "identifierType": "TV-Market ID",
+                            "identifierValue": "16200"
+                        },
+                        {
+                            "identifierType": "TV-Market Name",
+                            "identifierValue": "NEW YORK CITY, NY"
+                        }
+                    ]
+                },
+                "birthDaysParties": "0",
+                "driveThru": "0",
+                "outDoorPlayGround": "0",
+                "indoorPlayGround": "0",
+                "wifi": "0",
+                "breakFast": "0",
+                "nightMenu": "0",
+                "giftCards": "0",
+                "mobileOffers": "0",
+                "restaurantUrl": "https://careers.mcdonalds.com/us-restaurants/jobs?page\u003d1\u0026stretch\u003d0\u0026stretchUnit\u003dMILES\u0026location\u003d208%20VARICK%20ST%20NEW%20YORK%20NY%2010014",
+                "openstatus": "OPEN",
+                "identifierValue": "23318",
+                "timeZone": "(GMT-05:00) Eastern Time (US \u0026 Canada)",
+                "mcDeliveries": {
+                    "mcDelivery": [
+                        {
+                            "identifier": "DOORDASH",
+                            "marketingName": "Door Dash",
+                            "deliveryURL": "https://www.doordash.com/store/837209"
+                        },
+                        {
+                            "identifier": "GRUBHUB",
+                            "marketingName": "Grub Hub",
+                            "deliveryURL": "https://grubhub.com/restaurant/3113560?utm_source\u003dmcdonalds_website\u0026utm_medium\u003denterprise-rest_partner\u0026utm_campaign\u003drest-brand_5de59e10-3ba6-11e9-b0a9-3d145c71a10c\u0026utm_content\u003dmcdonalds"
+                        },
+                        {
+                            "identifier": "UBEREATS",
+                            "marketingName": "Uber Eats",
+                            "deliveryURL": "https://www.ubereats.com/store/mcdonalds-west-village-varick-%26-downing-st/vzioEVUtRDSaZXyfswAwgQ"
+                        },
+                        {
+                            "identifier": "MYMCDONALDS",
+                            "marketingName": "MyMcDonald\u0027s",
+                            "deliveryURL": "https://mcdonalds.smart.link/yotm502tc?site_id\u003ddownload-app\u0026amp;creative_id\u003d1col-publication"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.993408,
+                    40.729197
+                ]
+            },
+            "properties": {
+                "jobUrl": "https://jobs.mchire.com/jobs?s\u003d724+BROADWAY%2c+New+York%2c+NY",
+                "MCDELIVERY_URL": "https://www.ubereats.com/store/mcdonalds-greenwich-village-724-broadway/J3n2mPwQSwScSbXHZhmsAg",
+                "shortDescription": "724 BROADWAY",
+                "longDescription": "724 BROADWAY",
+                "todayHours": "00:00 - 00:00",
+                "driveTodayHours": "00:00 - 00:00",
+                "id": "195500284552:en-US",
+                "filterType": [
+                    "GIFTCARDS",
+                    "INDOORDINING",
+                    "LINKEDPAY",
+                    "LOYALTY",
+                    "MCDELIVERY",
+                    "MOBILEOFFERS",
+                    "MOBILEORDERS",
+                    "ROA",
+                    "TWENTYFOURHOURS",
+                    "WIFI"
+                ],
+                "addressLine1": "724 Broadway",
+                "addressLine3": "New York",
+                "addressLine4": "United States",
+                "subDivision": "NY",
+                "postcode": "10003",
+                "customAddress": "New York, NY 10003",
+                "telephone": "(212) 529-9660",
+                "restauranthours": {
+                    "hoursMonday": "00:00 - 00:00",
+                    "hoursTuesday": "00:00 - 00:00",
+                    "hoursWednesday": "00:00 - 00:00",
+                    "hoursThursday": "00:00 - 00:00",
+                    "hoursFriday": "00:00 - 00:00",
+                    "hoursSaturday": "00:00 - 00:00",
+                    "hoursSunday": "00:00 - 00:00"
+                },
+                "identifiers": {
+                    "storeIdentifier": [
+                        {
+                            "identifierType": "NATLSTRNUMBER",
+                            "identifierValue": "10407"
+                        },
+                        {
+                            "identifierType": "Entity",
+                            "identifierValue": "20239"
+                        },
+                        {
+                            "identifierType": "Region ID",
+                            "identifierValue": "30"
+                        },
+                        {
+                            "identifierType": "Co-Op",
+                            "identifierValue": "STAMFORD FIELD OFFICE"
+                        },
+                        {
+                            "identifierType": "Co-Op ID",
+                            "identifierValue": "246"
+                        },
+                        {
+                            "identifierType": "Co-Op Name",
+                            "identifierValue": "NEW YORK METRO"
+                        },
+                        {
+                            "identifierType": "TV-Market ID",
+                            "identifierValue": "16200"
+                        },
+                        {
+                            "identifierType": "TV-Market Name",
+                            "identifierValue": "NEW YORK CITY, NY"
+                        }
+                    ]
+                },
+                "birthDaysParties": "0",
+                "driveThru": "0",
+                "outDoorPlayGround": "0",
+                "indoorPlayGround": "0",
+                "wifi": "0",
+                "breakFast": "0",
+                "nightMenu": "0",
+                "giftCards": "0",
+                "mobileOffers": "0",
+                "restaurantUrl": "https://jobs.mchire.com/jobs?s\u003d724+BROADWAY%2c+New+York%2c+NY",
+                "openstatus": "OPEN",
+                "identifierValue": "10407",
+                "timeZone": "(GMT-05:00) Eastern Time (US \u0026 Canada)",
+                "mcDeliveries": {
+                    "mcDelivery": [
+                        {
+                            "identifier": "DOORDASH",
+                            "marketingName": "Door Dash",
+                            "deliveryURL": "https://www.doordash.com/store/837186"
+                        },
+                        {
+                            "identifier": "UBEREATS",
+                            "marketingName": "Uber Eats",
+                            "deliveryURL": "https://www.ubereats.com/store/mcdonalds-greenwich-village-724-broadway/J3n2mPwQSwScSbXHZhmsAg"
+                        },
+                        {
+                            "identifier": "MYMCDONALDS",
+                            "marketingName": "MyMcDonald\u0027s",
+                            "deliveryURL": "https://mcdonalds.smart.link/yotm502tc?site_id\u003ddownload-app\u0026amp;creative_id\u003d1col-publication"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.985855,
+                    40.726555
+                ]
+            },
+            "properties": {
+                "jobUrl": "https://jobs.mchire.com/jobs?s\u003d102+1ST+AVE%2c+New+York%2c+NY",
+                "MCDELIVERY_URL": "https://www.ubereats.com/store/mcdonalds-east-village-1st-ave/2vzL0N-2Qz-5p5dgHS-vfA",
+                "shortDescription": "MANHATTAN-1ST AV",
+                "longDescription": "MANHATTAN-1ST AV",
+                "todayHours": "07:00 - 00:00",
+                "driveTodayHours": "07:00 - 00:00",
+                "id": "195500282909:en-US",
+                "filterType": [
+                    "GIFTCARDS",
+                    "INDOORDINING",
+                    "KIOSKAUDIOACCESSIBILITY",
+                    "LINKEDPAY",
+                    "LOYALTY",
+                    "MCDELIVERY",
+                    "MOBILEOFFERS",
+                    "MOBILEORDERS",
+                    "NED",
+                    "ROA",
+                    "WIFI"
+                ],
+                "addressLine1": "102 1st Ave",
+                "addressLine3": "New York",
+                "addressLine4": "United States",
+                "subDivision": "NY",
+                "postcode": "10009",
+                "customAddress": "New York, NY 10009",
+                "telephone": "(212) 477-9171",
+                "restauranthours": {
+                    "hoursMonday": "07:00 - 00:00",
+                    "hoursTuesday": "07:00 - 00:00",
+                    "hoursWednesday": "07:00 - 00:00",
+                    "hoursThursday": "00:00 - 00:00",
+                    "hoursFriday": "00:00 - 00:00",
+                    "hoursSaturday": "00:00 - 00:00",
+                    "hoursSunday": "05:00 - 00:00"
+                },
+                "identifiers": {
+                    "storeIdentifier": [
+                        {
+                            "identifierType": "NATLSTRNUMBER",
+                            "identifierValue": "4020"
+                        },
+                        {
+                            "identifierType": "Entity",
+                            "identifierValue": "19592"
+                        },
+                        {
+                            "identifierType": "Region ID",
+                            "identifierValue": "30"
+                        },
+                        {
+                            "identifierType": "Co-Op",
+                            "identifierValue": "STAMFORD FIELD OFFICE"
+                        },
+                        {
+                            "identifierType": "Co-Op ID",
+                            "identifierValue": "246"
+                        },
+                        {
+                            "identifierType": "Co-Op Name",
+                            "identifierValue": "NEW YORK METRO"
+                        },
+                        {
+                            "identifierType": "TV-Market ID",
+                            "identifierValue": "16200"
+                        },
+                        {
+                            "identifierType": "TV-Market Name",
+                            "identifierValue": "NEW YORK CITY, NY"
+                        }
+                    ]
+                },
+                "birthDaysParties": "0",
+                "driveThru": "0",
+                "outDoorPlayGround": "0",
+                "indoorPlayGround": "0",
+                "wifi": "0",
+                "breakFast": "0",
+                "nightMenu": "0",
+                "giftCards": "0",
+                "mobileOffers": "0",
+                "restaurantUrl": "https://jobs.mchire.com/jobs?s\u003d102+1ST+AVE%2c+New+York%2c+NY",
+                "openstatus": "OPEN",
+                "identifierValue": "4020",
+                "timeZone": "(GMT-05:00) Eastern Time (US \u0026 Canada)",
+                "mcDeliveries": {
+                    "mcDelivery": [
+                        {
+                            "identifier": "DOORDASH",
+                            "marketingName": "Door Dash",
+                            "deliveryURL": "https://www.doordash.com/store/837229"
+                        },
+                        {
+                            "identifier": "GRUBHUB",
+                            "marketingName": "Grub Hub",
+                            "deliveryURL": "https://grubhub.com/restaurant/3121376?utm_source\u003dmcdonalds_website\u0026utm_medium\u003denterprise-rest_partner\u0026utm_campaign\u003drest-brand_5de59e10-3ba6-11e9-b0a9-3d145c71a10c\u0026utm_content\u003dmcdonalds"
+                        },
+                        {
+                            "identifier": "UBEREATS",
+                            "marketingName": "Uber Eats",
+                            "deliveryURL": "https://www.ubereats.com/store/mcdonalds-east-village-1st-ave/2vzL0N-2Qz-5p5dgHS-vfA"
+                        },
+                        {
+                            "identifier": "MYMCDONALDS",
+                            "marketingName": "MyMcDonald\u0027s",
+                            "deliveryURL": "https://mcdonalds.smart.link/yotm502tc?site_id\u003ddownload-app\u0026amp;creative_id\u003d1col-publication"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.991692,
+                    40.691383
+                ]
+            },
+            "properties": {
+                "jobUrl": "https://jobs.mchire.com/jobs?s\u003d82+COURT+ST%2c+Brooklyn%2c+NY",
+                "MCDELIVERY_URL": "https://www.ubereats.com/store/mcdonalds-brooklyn-court/Qj6SAvw9QYmX7e589ijDeg",
+                "shortDescription": "BROOKLYN-COURT",
+                "longDescription": "BROOKLYN-COURT",
+                "todayHours": "00:00 - 00:00",
+                "driveTodayHours": "00:00 - 00:00",
+                "id": "195500283500:en-US",
+                "filterType": [
+                    "GIFTCARDS",
+                    "INDOORDINING",
+                    "LINKEDPAY",
+                    "LOYALTY",
+                    "MCDELIVERY",
+                    "MOBILEOFFERS",
+                    "MOBILEORDERS",
+                    "NED",
+                    "ROA",
+                    "TWENTYFOURHOURS",
+                    "WIFI"
+                ],
+                "addressLine1": "82 Court St",
+                "addressLine3": "Brooklyn",
+                "addressLine4": "United States",
+                "subDivision": "NY",
+                "postcode": "11201",
+                "customAddress": "Brooklyn, NY 11201",
+                "telephone": "(929) 450-4962",
+                "restauranthours": {
+                    "hoursMonday": "00:00 - 00:00",
+                    "hoursTuesday": "00:00 - 00:00",
+                    "hoursWednesday": "00:00 - 00:00",
+                    "hoursThursday": "00:00 - 00:00",
+                    "hoursFriday": "00:00 - 00:00",
+                    "hoursSaturday": "00:00 - 00:00",
+                    "hoursSunday": "00:00 - 00:00"
+                },
+                "identifiers": {
+                    "storeIdentifier": [
+                        {
+                            "identifierType": "NATLSTRNUMBER",
+                            "identifierValue": "4705"
+                        },
+                        {
+                            "identifierType": "Entity",
+                            "identifierValue": "19746"
+                        },
+                        {
+                            "identifierType": "Region ID",
+                            "identifierValue": "30"
+                        },
+                        {
+                            "identifierType": "Co-Op",
+                            "identifierValue": "STAMFORD FIELD OFFICE"
+                        },
+                        {
+                            "identifierType": "Co-Op ID",
+                            "identifierValue": "246"
+                        },
+                        {
+                            "identifierType": "Co-Op Name",
+                            "identifierValue": "NEW YORK METRO"
+                        },
+                        {
+                            "identifierType": "TV-Market ID",
+                            "identifierValue": "16200"
+                        },
+                        {
+                            "identifierType": "TV-Market Name",
+                            "identifierValue": "NEW YORK CITY, NY"
+                        }
+                    ]
+                },
+                "birthDaysParties": "0",
+                "driveThru": "0",
+                "outDoorPlayGround": "0",
+                "indoorPlayGround": "0",
+                "wifi": "0",
+                "breakFast": "0",
+                "nightMenu": "0",
+                "giftCards": "0",
+                "mobileOffers": "0",
+                "restaurantUrl": "https://jobs.mchire.com/jobs?s\u003d82+COURT+ST%2c+Brooklyn%2c+NY",
+                "openstatus": "OPEN",
+                "identifierValue": "4705",
+                "timeZone": "(GMT-05:00) Eastern Time (US \u0026 Canada)",
+                "mcDeliveries": {
+                    "mcDelivery": [
+                        {
+                            "identifier": "DOORDASH",
+                            "marketingName": "Door Dash",
+                            "deliveryURL": "https://www.doordash.com/store/837688"
+                        },
+                        {
+                            "identifier": "GRUBHUB",
+                            "marketingName": "Grub Hub",
+                            "deliveryURL": "https://grubhub.com/restaurant/1339428?utm_source\u003dmcdonalds_website\u0026utm_medium\u003denterprise-rest_partner\u0026utm_campaign\u003drest-brand_5de59e10-3ba6-11e9-b0a9-3d145c71a10c\u0026utm_content\u003dmcdonalds"
+                        },
+                        {
+                            "identifier": "UBEREATS",
+                            "marketingName": "Uber Eats",
+                            "deliveryURL": "https://www.ubereats.com/store/mcdonalds-brooklyn-court/Qj6SAvw9QYmX7e589ijDeg"
+                        },
+                        {
+                            "identifier": "MYMCDONALDS",
+                            "marketingName": "MyMcDonald\u0027s",
+                            "deliveryURL": "https://mcdonalds.smart.link/yotm502tc?site_id\u003ddownload-app\u0026amp;creative_id\u003d1col-publication"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.982277,
+                    40.731014
+                ]
+            },
+            "properties": {
+                "jobUrl": "https://jobs.mchire.com/jobs?s\u003d404+E+14TH+ST%2c+New+York%2c+NY",
+                "MCDELIVERY_URL": "https://www.ubereats.com/store/mcdonalds-east-village-14th-%26-1st/ol7wJuabTL2vvkpPumoSSg",
+                "shortDescription": "14TH \u0026 1ST",
+                "longDescription": "14TH \u0026 1ST",
+                "todayHours": "00:00 - 00:00",
+                "driveTodayHours": "00:00 - 00:00",
+                "id": "195500285368:en-US",
+                "filterType": [
+                    "GIFTCARDS",
+                    "LINKEDPAY",
+                    "LOYALTY",
+                    "MCDELIVERY",
+                    "MOBILEOFFERS",
+                    "MOBILEORDERS",
+                    "NED",
+                    "ROA",
+                    "TWENTYFOURHOURS",
+                    "WIFI"
+                ],
+                "addressLine1": "404 E 14th St",
+                "addressLine3": "New York",
+                "addressLine4": "United States",
+                "subDivision": "NY",
+                "postcode": "10009",
+                "customAddress": "New York, NY 10009",
+                "telephone": "(212) 598-0045",
+                "restauranthours": {
+                    "hoursMonday": "00:00 - 00:00",
+                    "hoursTuesday": "00:00 - 00:00",
+                    "hoursWednesday": "00:00 - 00:00",
+                    "hoursThursday": "00:00 - 00:00",
+                    "hoursFriday": "00:00 - 00:00",
+                    "hoursSaturday": "00:00 - 00:00",
+                    "hoursSunday": "00:00 - 00:00"
+                },
+                "identifiers": {
+                    "storeIdentifier": [
+                        {
+                            "identifierType": "NATLSTRNUMBER",
+                            "identifierValue": "13064"
+                        },
+                        {
+                            "identifierType": "Entity",
+                            "identifierValue": "20571"
+                        },
+                        {
+                            "identifierType": "Region ID",
+                            "identifierValue": "30"
+                        },
+                        {
+                            "identifierType": "Co-Op",
+                            "identifierValue": "STAMFORD FIELD OFFICE"
+                        },
+                        {
+                            "identifierType": "Co-Op ID",
+                            "identifierValue": "246"
+                        },
+                        {
+                            "identifierType": "Co-Op Name",
+                            "identifierValue": "NEW YORK METRO"
+                        },
+                        {
+                            "identifierType": "TV-Market ID",
+                            "identifierValue": "16200"
+                        },
+                        {
+                            "identifierType": "TV-Market Name",
+                            "identifierValue": "NEW YORK CITY, NY"
+                        }
+                    ]
+                },
+                "birthDaysParties": "0",
+                "driveThru": "0",
+                "outDoorPlayGround": "0",
+                "indoorPlayGround": "0",
+                "wifi": "0",
+                "breakFast": "0",
+                "nightMenu": "0",
+                "giftCards": "0",
+                "mobileOffers": "0",
+                "restaurantUrl": "https://jobs.mchire.com/jobs?s\u003d404+E+14TH+ST%2c+New+York%2c+NY",
+                "openstatus": "OPEN",
+                "identifierValue": "13064",
+                "timeZone": "(GMT-05:00) Eastern Time (US \u0026 Canada)",
+                "mcDeliveries": {
+                    "mcDelivery": [
+                        {
+                            "identifier": "DOORDASH",
+                            "marketingName": "Door Dash",
+                            "deliveryURL": "https://www.doordash.com/store/837190"
+                        },
+                        {
+                            "identifier": "GRUBHUB",
+                            "marketingName": "Grub Hub",
+                            "deliveryURL": "https://grubhub.com/restaurant/1339299?utm_source\u003dmcdonalds_website\u0026utm_medium\u003denterprise-rest_partner\u0026utm_campaign\u003drest-brand_5de59e10-3ba6-11e9-b0a9-3d145c71a10c\u0026utm_content\u003dmcdonalds"
+                        },
+                        {
+                            "identifier": "UBEREATS",
+                            "marketingName": "Uber Eats",
+                            "deliveryURL": "https://www.ubereats.com/store/mcdonalds-east-village-14th-%26-1st/ol7wJuabTL2vvkpPumoSSg"
+                        },
+                        {
+                            "identifier": "MYMCDONALDS",
+                            "marketingName": "MyMcDonald\u0027s",
+                            "deliveryURL": "https://mcdonalds.smart.link/yotm502tc?site_id\u003ddownload-app\u0026amp;creative_id\u003d1col-publication"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.996726,
+                    40.737864
+                ]
+            },
+            "properties": {
+                "jobUrl": "https://jobs.mchire.com/jobs?s\u003d541+6TH+AVE%2c+New+York%2c+NY",
+                "MCDELIVERY_URL": "https://www.ubereats.com/store/mcdonalds-6th-ave-%26-14th-street/8qlEYXmeS9WCDPeo5zGFng",
+                "shortDescription": "NYC-AVE OF AMRCS",
+                "longDescription": "NYC-AVE OF AMRCS",
+                "todayHours": "07:00 - 00:00",
+                "driveTodayHours": "07:00 - 00:00",
+                "id": "195500282480:en-US",
+                "filterType": [
+                    "GIFTCARDS",
+                    "INDOORDINING",
+                    "KIOSKAUDIOACCESSIBILITY",
+                    "LINKEDPAY",
+                    "LOYALTY",
+                    "MCDELIVERY",
+                    "MOBILEOFFERS",
+                    "MOBILEORDERS",
+                    "NED",
+                    "ROA",
+                    "WIFI"
+                ],
+                "addressLine1": "541 6th Ave",
+                "addressLine3": "New York",
+                "addressLine4": "United States",
+                "subDivision": "NY",
+                "postcode": "10011",
+                "customAddress": "New York, NY 10011",
+                "telephone": "(212) 463-8869",
+                "restauranthours": {
+                    "hoursMonday": "07:00 - 00:00",
+                    "hoursTuesday": "07:00 - 00:00",
+                    "hoursWednesday": "07:00 - 00:00",
+                    "hoursThursday": "07:00 - 00:00",
+                    "hoursFriday": "00:00 - 00:00",
+                    "hoursSaturday": "00:00 - 00:00",
+                    "hoursSunday": "07:00 - 00:00"
+                },
+                "identifiers": {
+                    "storeIdentifier": [
+                        {
+                            "identifierType": "NATLSTRNUMBER",
+                            "identifierValue": "2968"
+                        },
+                        {
+                            "identifierType": "Entity",
+                            "identifierValue": "19501"
+                        },
+                        {
+                            "identifierType": "Region ID",
+                            "identifierValue": "30"
+                        },
+                        {
+                            "identifierType": "Co-Op",
+                            "identifierValue": "STAMFORD FIELD OFFICE"
+                        },
+                        {
+                            "identifierType": "Co-Op ID",
+                            "identifierValue": "246"
+                        },
+                        {
+                            "identifierType": "Co-Op Name",
+                            "identifierValue": "NEW YORK METRO"
+                        },
+                        {
+                            "identifierType": "TV-Market ID",
+                            "identifierValue": "16200"
+                        },
+                        {
+                            "identifierType": "TV-Market Name",
+                            "identifierValue": "NEW YORK CITY, NY"
+                        }
+                    ]
+                },
+                "birthDaysParties": "0",
+                "driveThru": "0",
+                "outDoorPlayGround": "0",
+                "indoorPlayGround": "0",
+                "wifi": "0",
+                "breakFast": "0",
+                "nightMenu": "0",
+                "giftCards": "0",
+                "mobileOffers": "0",
+                "restaurantUrl": "https://jobs.mchire.com/jobs?s\u003d541+6TH+AVE%2c+New+York%2c+NY",
+                "openstatus": "OPEN",
+                "identifierValue": "2968",
+                "timeZone": "(GMT-05:00) Eastern Time (US \u0026 Canada)",
+                "mcDeliveries": {
+                    "mcDelivery": [
+                        {
+                            "identifier": "DOORDASH",
+                            "marketingName": "Door Dash",
+                            "deliveryURL": "https://www.doordash.com/store/837219"
+                        },
+                        {
+                            "identifier": "GRUBHUB",
+                            "marketingName": "Grub Hub",
+                            "deliveryURL": "https://grubhub.com/restaurant/1299926?utm_source\u003dmcdonalds_website\u0026utm_medium\u003denterprise-rest_partner\u0026utm_campaign\u003drest-brand_5de59e10-3ba6-11e9-b0a9-3d145c71a10c\u0026utm_content\u003dmcdonalds"
+                        },
+                        {
+                            "identifier": "UBEREATS",
+                            "marketingName": "Uber Eats",
+                            "deliveryURL": "https://www.ubereats.com/store/mcdonalds-6th-ave-%26-14th-street/8qlEYXmeS9WCDPeo5zGFng"
+                        },
+                        {
+                            "identifier": "MYMCDONALDS",
+                            "marketingName": "MyMcDonald\u0027s",
+                            "deliveryURL": "https://mcdonalds.smart.link/yotm502tc?site_id\u003ddownload-app\u0026amp;creative_id\u003d1col-publication"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.986206,
+                    40.690838
+                ]
+            },
+            "properties": {
+                "jobUrl": "https://careers.mcdonalds.com/us-restaurants/jobs?page\u003d1\u0026stretch\u003d0\u0026stretchUnit\u003dMILES\u0026location\u003d420%20FULTON%20ST%20BROOKLYN%20NY%2011201",
+                "MCDELIVERY_URL": "https://www.ubereats.com/store/mcdonalds-downtown-brooklyn-fulton-st/nN2Zj0zTRZqUcMaBwedQBg",
+                "shortDescription": "FULTON MALL BKLN",
+                "longDescription": "FULTON MALL BKLN",
+                "todayHours": "00:00 - 00:00",
+                "driveTodayHours": "00:00 - 00:00",
+                "id": "195500286914:en-US",
+                "filterType": [
+                    "INDOORDINING",
+                    "MCDELIVERY",
+                    "TWENTYFOURHOURS",
+                    "WIFI"
+                ],
+                "addressLine1": "420 Fulton St",
+                "addressLine3": "Brooklyn",
+                "addressLine4": "United States",
+                "subDivision": "NY",
+                "postcode": "11201",
+                "customAddress": "Brooklyn, NY 11201",
+                "telephone": "(929) 431-6994",
+                "restauranthours": {
+                    "hoursMonday": "00:00 - 00:00",
+                    "hoursTuesday": "00:00 - 00:00",
+                    "hoursWednesday": "00:00 - 00:00",
+                    "hoursThursday": "00:00 - 00:00",
+                    "hoursFriday": "00:00 - 00:00",
+                    "hoursSaturday": "00:00 - 00:00",
+                    "hoursSunday": "00:00 - 00:00"
+                },
+                "identifiers": {
+                    "storeIdentifier": [
+                        {
+                            "identifierType": "NATLSTRNUMBER",
+                            "identifierValue": "21831"
+                        },
+                        {
+                            "identifierType": "Entity",
+                            "identifierValue": "21053"
+                        },
+                        {
+                            "identifierType": "Region ID",
+                            "identifierValue": "30"
+                        },
+                        {
+                            "identifierType": "Co-Op",
+                            "identifierValue": "STAMFORD FIELD OFFICE"
+                        },
+                        {
+                            "identifierType": "Co-Op ID",
+                            "identifierValue": "246"
+                        },
+                        {
+                            "identifierType": "Co-Op Name",
+                            "identifierValue": "NEW YORK METRO"
+                        },
+                        {
+                            "identifierType": "TV-Market ID",
+                            "identifierValue": "16200"
+                        },
+                        {
+                            "identifierType": "TV-Market Name",
+                            "identifierValue": "NEW YORK CITY, NY"
+                        }
+                    ]
+                },
+                "birthDaysParties": "0",
+                "driveThru": "0",
+                "outDoorPlayGround": "0",
+                "indoorPlayGround": "0",
+                "wifi": "0",
+                "breakFast": "0",
+                "nightMenu": "0",
+                "giftCards": "0",
+                "mobileOffers": "0",
+                "restaurantUrl": "https://careers.mcdonalds.com/us-restaurants/jobs?page\u003d1\u0026stretch\u003d0\u0026stretchUnit\u003dMILES\u0026location\u003d420%20FULTON%20ST%20BROOKLYN%20NY%2011201",
+                "openstatus": "OPEN",
+                "identifierValue": "21831",
+                "timeZone": "(GMT-05:00) Eastern Time (US \u0026 Canada)",
+                "mcDeliveries": {
+                    "mcDelivery": [
+                        {
+                            "identifier": "DOORDASH",
+                            "marketingName": "Door Dash",
+                            "deliveryURL": "https://www.doordash.com/store/837653"
+                        },
+                        {
+                            "identifier": "UBEREATS",
+                            "marketingName": "Uber Eats",
+                            "deliveryURL": "https://www.ubereats.com/store/mcdonalds-downtown-brooklyn-fulton-st/nN2Zj0zTRZqUcMaBwedQBg"
+                        },
+                        {
+                            "identifier": "MYMCDONALDS",
+                            "marketingName": "MyMcDonald\u0027s",
+                            "deliveryURL": "https://mcdonalds.smart.link/yotm502tc?site_id\u003ddownload-app\u0026amp;creative_id\u003d1col-publication"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.990517,
+                    40.736977
+                ]
+            },
+            "properties": {
+                "jobUrl": "https://jobs.mchire.com/jobs?s\u003d39+UNION+SQUARE+W%2c+New+York%2c+NY",
+                "MCDELIVERY_URL": "https://www.ubereats.com/store/mcdonalds-usq/xDTHylAzQzK-XA29YvHhDQ",
+                "shortDescription": "UNION SQUARE2702",
+                "longDescription": "MANHATTAN-UNION",
+                "todayHours": "06:00 - 00:00",
+                "driveTodayHours": "06:00 - 00:00",
+                "id": "195500282190:en-US",
+                "filterType": [
+                    "GIFTCARDS",
+                    "INDOORDINING",
+                    "KIOSKAUDIOACCESSIBILITY",
+                    "LINKEDPAY",
+                    "LOYALTY",
+                    "MCDELIVERY",
+                    "MOBILEOFFERS",
+                    "MOBILEORDERS",
+                    "NED",
+                    "ROA",
+                    "WIFI"
+                ],
+                "addressLine1": "39 Union Square W",
+                "addressLine3": "New York",
+                "addressLine4": "United States",
+                "subDivision": "NY",
+                "postcode": "10003",
+                "customAddress": "New York, NY 10003",
+                "telephone": "(212) 645-9079",
+                "restauranthours": {
+                    "hoursMonday": "06:00 - 00:00",
+                    "hoursTuesday": "06:00 - 00:00",
+                    "hoursWednesday": "06:00 - 00:00",
+                    "hoursThursday": "06:00 - 00:00",
+                    "hoursFriday": "06:00 - 00:00",
+                    "hoursSaturday": "06:00 - 00:00",
+                    "hoursSunday": "06:00 - 00:00"
+                },
+                "identifiers": {
+                    "storeIdentifier": [
+                        {
+                            "identifierType": "NATLSTRNUMBER",
+                            "identifierValue": "2702"
+                        },
+                        {
+                            "identifierType": "Entity",
+                            "identifierValue": "19448"
+                        },
+                        {
+                            "identifierType": "Region ID",
+                            "identifierValue": "30"
+                        },
+                        {
+                            "identifierType": "Co-Op",
+                            "identifierValue": "STAMFORD FIELD OFFICE"
+                        },
+                        {
+                            "identifierType": "Co-Op ID",
+                            "identifierValue": "246"
+                        },
+                        {
+                            "identifierType": "Co-Op Name",
+                            "identifierValue": "NEW YORK METRO"
+                        },
+                        {
+                            "identifierType": "TV-Market ID",
+                            "identifierValue": "16200"
+                        },
+                        {
+                            "identifierType": "TV-Market Name",
+                            "identifierValue": "NEW YORK CITY, NY"
+                        }
+                    ]
+                },
+                "birthDaysParties": "0",
+                "driveThru": "0",
+                "outDoorPlayGround": "0",
+                "indoorPlayGround": "0",
+                "wifi": "0",
+                "breakFast": "0",
+                "nightMenu": "0",
+                "giftCards": "0",
+                "mobileOffers": "0",
+                "restaurantUrl": "https://jobs.mchire.com/jobs?s\u003d39+UNION+SQUARE+W%2c+New+York%2c+NY",
+                "openstatus": "OPEN",
+                "identifierValue": "2702",
+                "timeZone": "(GMT-05:00) Eastern Time (US \u0026 Canada)",
+                "mcDeliveries": {
+                    "mcDelivery": [
+                        {
+                            "identifier": "DOORDASH",
+                            "marketingName": "Door Dash",
+                            "deliveryURL": "https://www.doordash.com/store/837215"
+                        },
+                        {
+                            "identifier": "GRUBHUB",
+                            "marketingName": "Grub Hub",
+                            "deliveryURL": "https://grubhub.com/restaurant/3120981?utm_source\u003dmcdonalds_website\u0026utm_medium\u003denterprise-rest_partner\u0026utm_campaign\u003drest-brand_5de59e10-3ba6-11e9-b0a9-3d145c71a10c\u0026utm_content\u003dmcdonalds"
+                        },
+                        {
+                            "identifier": "UBEREATS",
+                            "marketingName": "Uber Eats",
+                            "deliveryURL": "https://www.ubereats.com/store/mcdonalds-usq/xDTHylAzQzK-XA29YvHhDQ"
+                        },
+                        {
+                            "identifier": "MYMCDONALDS",
+                            "marketingName": "MyMcDonald\u0027s",
+                            "deliveryURL": "https://mcdonalds.smart.link/yotm502tc?site_id\u003ddownload-app\u0026amp;creative_id\u003d1col-publication"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -74.0387,
+                    40.726501
+                ]
+            },
+            "properties": {
+                "jobUrl": "https://jobs.mchire.com/jobs?s\u003d30+MALL+DR+W%2c+Jersey+City%2c+NJ",
+                "MCDELIVERY_URL": "https://www.ubereats.com/store/mcdonalds-30-mall-drive-west/CFwb6B70TGKTQMVzk8jTWg",
+                "shortDescription": "NEWPORT CTR",
+                "longDescription": "NEWPORT CTR",
+                "todayHours": "08:00 - 21:00",
+                "driveTodayHours": "08:00 - 21:00",
+                "id": "195500278919:en-US",
+                "filterType": [
+                    "GIFTCARDS",
+                    "INDOORDINING",
+                    "LINKEDPAY",
+                    "LOYALTY",
+                    "MCDELIVERY",
+                    "MOBILEOFFERS",
+                    "MOBILEORDERS",
+                    "ROA",
+                    "WIFI"
+                ],
+                "addressLine1": "30 MALL DR W (Newport Center Mall)",
+                "addressLine3": "Jersey City",
+                "addressLine4": "United States",
+                "subDivision": "NJ",
+                "postcode": "07310",
+                "customAddress": "Jersey City, NJ 07310",
+                "telephone": "(201) 604-3871",
+                "restauranthours": {
+                    "hoursMonday": "08:00 - 21:00",
+                    "hoursTuesday": "08:00 - 21:00",
+                    "hoursWednesday": "08:00 - 21:00",
+                    "hoursThursday": "08:00 - 21:00",
+                    "hoursFriday": "08:00 - 22:00",
+                    "hoursSaturday": "08:00 - 22:00",
+                    "hoursSunday": "09:00 - 20:00"
+                },
+                "identifiers": {
+                    "storeIdentifier": [
+                        {
+                            "identifierType": "NATLSTRNUMBER",
+                            "identifierValue": "18759"
+                        },
+                        {
+                            "identifierType": "Entity",
+                            "identifierValue": "18783"
+                        },
+                        {
+                            "identifierType": "Region ID",
+                            "identifierValue": "30"
+                        },
+                        {
+                            "identifierType": "Co-Op",
+                            "identifierValue": "STAMFORD FIELD OFFICE"
+                        },
+                        {
+                            "identifierType": "Co-Op ID",
+                            "identifierValue": "246"
+                        },
+                        {
+                            "identifierType": "Co-Op Name",
+                            "identifierValue": "NEW YORK METRO"
+                        },
+                        {
+                            "identifierType": "TV-Market ID",
+                            "identifierValue": "16200"
+                        },
+                        {
+                            "identifierType": "TV-Market Name",
+                            "identifierValue": "NEW YORK CITY, NY"
+                        }
+                    ]
+                },
+                "birthDaysParties": "0",
+                "driveThru": "0",
+                "outDoorPlayGround": "0",
+                "indoorPlayGround": "0",
+                "wifi": "0",
+                "breakFast": "0",
+                "nightMenu": "0",
+                "giftCards": "0",
+                "mobileOffers": "0",
+                "restaurantUrl": "https://jobs.mchire.com/jobs?s\u003d30+MALL+DR+W%2c+Jersey+City%2c+NJ",
+                "openstatus": "OPEN",
+                "identifierValue": "18759",
+                "timeZone": "(GMT-05:00) Eastern Time (US \u0026 Canada)",
+                "mcDeliveries": {
+                    "mcDelivery": [
+                        {
+                            "identifier": "DOORDASH",
+                            "marketingName": "Door Dash",
+                            "deliveryURL": "https://www.doordash.com/store/837548"
+                        },
+                        {
+                            "identifier": "GRUBHUB",
+                            "marketingName": "Grub Hub",
+                            "deliveryURL": "https://grubhub.com/restaurant/5522664?utm_source\u003dmcdonalds_website\u0026utm_medium\u003denterprise-rest_partner\u0026utm_campaign\u003drest-brand_5de59e10-3ba6-11e9-b0a9-3d145c71a10c\u0026utm_content\u003dmcdonalds"
+                        },
+                        {
+                            "identifier": "UBEREATS",
+                            "marketingName": "Uber Eats",
+                            "deliveryURL": "https://www.ubereats.com/store/mcdonalds-30-mall-drive-west/CFwb6B70TGKTQMVzk8jTWg"
+                        },
+                        {
+                            "identifier": "MYMCDONALDS",
+                            "marketingName": "MyMcDonald\u0027s",
+                            "deliveryURL": "https://mcdonalds.smart.link/yotm502tc?site_id\u003ddownload-app\u0026amp;creative_id\u003d1col-publication"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -74.043057,
+                    40.719843
+                ]
+            },
+            "properties": {
+                "jobUrl": "https://jobs.mchire.com/jobs?s\u003d325+GROVE+ST%2c+Jersey+City%2c+NJ",
+                "MCDELIVERY_URL": "https://www.ubereats.com/store/mcdonalds-jersey-cy-grove/f6Z3xLGXQDKFGI1T04aexw",
+                "shortDescription": "JERSEY CY/GROVE",
+                "longDescription": "JERSEY CY/GROVE",
+                "todayHours": "06:00 - 00:00",
+                "driveTodayHours": "06:00 - 00:00",
+                "id": "195500278032:en-US",
+                "filterType": [
+                    "INDOORDINING",
+                    "LINKEDPAY",
+                    "LOYALTY",
+                    "MCDELIVERY",
+                    "MOBILEOFFERS",
+                    "MOBILEORDERS",
+                    "NED",
+                    "ROA",
+                    "WIFI"
+                ],
+                "addressLine1": "325 Grove St",
+                "addressLine3": "Jersey City",
+                "addressLine4": "United States",
+                "subDivision": "NJ",
+                "postcode": "07303",
+                "customAddress": "Jersey City, NJ 07303",
+                "telephone": "(201) 333-7888",
+                "restauranthours": {
+                    "hoursMonday": "06:00 - 00:00",
+                    "hoursTuesday": "06:00 - 00:00",
+                    "hoursWednesday": "06:00 - 00:00",
+                    "hoursThursday": "06:00 - 00:00",
+                    "hoursFriday": "06:00 - 00:00",
+                    "hoursSaturday": "06:00 - 00:00",
+                    "hoursSunday": "06:00 - 00:00"
+                },
+                "identifiers": {
+                    "storeIdentifier": [
+                        {
+                            "identifierType": "NATLSTRNUMBER",
+                            "identifierValue": "13654"
+                        },
+                        {
+                            "identifierType": "Entity",
+                            "identifierValue": "18624"
+                        },
+                        {
+                            "identifierType": "Region ID",
+                            "identifierValue": "30"
+                        },
+                        {
+                            "identifierType": "Co-Op",
+                            "identifierValue": "STAMFORD FIELD OFFICE"
+                        },
+                        {
+                            "identifierType": "Co-Op ID",
+                            "identifierValue": "246"
+                        },
+                        {
+                            "identifierType": "Co-Op Name",
+                            "identifierValue": "NEW YORK METRO"
+                        },
+                        {
+                            "identifierType": "TV-Market ID",
+                            "identifierValue": "16200"
+                        },
+                        {
+                            "identifierType": "TV-Market Name",
+                            "identifierValue": "NEW YORK CITY, NY"
+                        }
+                    ]
+                },
+                "birthDaysParties": "0",
+                "driveThru": "0",
+                "outDoorPlayGround": "0",
+                "indoorPlayGround": "0",
+                "wifi": "0",
+                "breakFast": "0",
+                "nightMenu": "0",
+                "giftCards": "0",
+                "mobileOffers": "0",
+                "restaurantUrl": "https://jobs.mchire.com/jobs?s\u003d325+GROVE+ST%2c+Jersey+City%2c+NJ",
+                "openstatus": "OPEN",
+                "identifierValue": "13654",
+                "timeZone": "(GMT-05:00) Eastern Time (US \u0026 Canada)",
+                "mcDeliveries": {
+                    "mcDelivery": [
+                        {
+                            "identifier": "DOORDASH",
+                            "marketingName": "Door Dash",
+                            "deliveryURL": "https://www.doordash.com/store/837542"
+                        },
+                        {
+                            "identifier": "GRUBHUB",
+                            "marketingName": "Grub Hub",
+                            "deliveryURL": "https://grubhub.com/restaurant/7935384?utm_source\u003dmcdonalds_website\u0026utm_medium\u003denterprise-rest_partner\u0026utm_campaign\u003drest-brand_5de59e10-3ba6-11e9-b0a9-3d145c71a10c\u0026utm_content\u003dmcdonalds"
+                        },
+                        {
+                            "identifier": "UBEREATS",
+                            "marketingName": "Uber Eats",
+                            "deliveryURL": "https://www.ubereats.com/store/mcdonalds-jersey-cy-grove/f6Z3xLGXQDKFGI1T04aexw"
+                        },
+                        {
+                            "identifier": "MYMCDONALDS",
+                            "marketingName": "MyMcDonald\u0027s",
+                            "deliveryURL": "https://mcdonalds.smart.link/yotm502tc?site_id\u003ddownload-app\u0026amp;creative_id\u003d1col-publication"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.98067,
+                    40.688963
+                ]
+            },
+            "properties": {
+                "jobUrl": "https://jobs.mchire.com/jobs?s\u003d395+FLATBUSH+AVE+EXTEN%2c+Brooklyn%2c+NY",
+                "MCDELIVERY_URL": "https://www.ubereats.com/store/mcdonalds-brooklyn-flatbush-ave/mAWk-EcAQ3GYjO2AIcKMrw",
+                "shortDescription": "BROOKLYN-395FLTB",
+                "longDescription": "395 FLATBUSH EXT BROOKLYN",
+                "todayHours": "00:00 - 00:00",
+                "driveTodayHours": "00:00 - 00:00",
+                "id": "195500282961:en-US",
+                "filterType": [
+                    "GIFTCARDS",
+                    "INDOORDINING",
+                    "LINKEDPAY",
+                    "LOYALTY",
+                    "MCDELIVERY",
+                    "MOBILEOFFERS",
+                    "MOBILEORDERS",
+                    "NED",
+                    "ROA",
+                    "TWENTYFOURHOURS",
+                    "WIFI"
+                ],
+                "addressLine1": "395 Flatbush Ave Exten",
+                "addressLine3": "Brooklyn",
+                "addressLine4": "United States",
+                "subDivision": "NY",
+                "postcode": "11201",
+                "customAddress": "Brooklyn, NY 11201",
+                "telephone": "(347) 315-3511",
+                "restauranthours": {
+                    "hoursMonday": "00:00 - 00:00",
+                    "hoursTuesday": "00:00 - 00:00",
+                    "hoursWednesday": "00:00 - 00:00",
+                    "hoursThursday": "00:00 - 00:00",
+                    "hoursFriday": "00:00 - 00:00",
+                    "hoursSaturday": "00:00 - 00:00",
+                    "hoursSunday": "00:00 - 00:00"
+                },
+                "identifiers": {
+                    "storeIdentifier": [
+                        {
+                            "identifierType": "NATLSTRNUMBER",
+                            "identifierValue": "4025"
+                        },
+                        {
+                            "identifierType": "Entity",
+                            "identifierValue": "19611"
+                        },
+                        {
+                            "identifierType": "Region ID",
+                            "identifierValue": "30"
+                        },
+                        {
+                            "identifierType": "Co-Op",
+                            "identifierValue": "STAMFORD FIELD OFFICE"
+                        },
+                        {
+                            "identifierType": "Co-Op ID",
+                            "identifierValue": "246"
+                        },
+                        {
+                            "identifierType": "Co-Op Name",
+                            "identifierValue": "NEW YORK METRO"
+                        },
+                        {
+                            "identifierType": "TV-Market ID",
+                            "identifierValue": "16200"
+                        },
+                        {
+                            "identifierType": "TV-Market Name",
+                            "identifierValue": "NEW YORK CITY, NY"
+                        }
+                    ]
+                },
+                "birthDaysParties": "0",
+                "driveThru": "0",
+                "outDoorPlayGround": "0",
+                "indoorPlayGround": "0",
+                "wifi": "0",
+                "breakFast": "0",
+                "nightMenu": "0",
+                "giftCards": "0",
+                "mobileOffers": "0",
+                "restaurantUrl": "https://jobs.mchire.com/jobs?s\u003d395+FLATBUSH+AVE+EXTEN%2c+Brooklyn%2c+NY",
+                "openstatus": "OPEN",
+                "identifierValue": "4025",
+                "timeZone": "(GMT-05:00) Eastern Time (US \u0026 Canada)",
+                "mcDeliveries": {
+                    "mcDelivery": [
+                        {
+                            "identifier": "DOORDASH",
+                            "marketingName": "Door Dash",
+                            "deliveryURL": "https://www.doordash.com/store/837684"
+                        },
+                        {
+                            "identifier": "GRUBHUB",
+                            "marketingName": "Grub Hub",
+                            "deliveryURL": "https://grubhub.com/restaurant/1339449?utm_source\u003dmcdonalds_website\u0026utm_medium\u003denterprise-rest_partner\u0026utm_campaign\u003drest-brand_5de59e10-3ba6-11e9-b0a9-3d145c71a10c\u0026utm_content\u003dmcdonalds"
+                        },
+                        {
+                            "identifier": "UBEREATS",
+                            "marketingName": "Uber Eats",
+                            "deliveryURL": "https://www.ubereats.com/store/mcdonalds-brooklyn-flatbush-ave/mAWk-EcAQ3GYjO2AIcKMrw"
+                        },
+                        {
+                            "identifier": "MYMCDONALDS",
+                            "marketingName": "MyMcDonald\u0027s",
+                            "deliveryURL": "https://mcdonalds.smart.link/yotm502tc?site_id\u003ddownload-app\u0026amp;creative_id\u003d1col-publication"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.993286,
+                    40.741928
+                ]
+            },
+            "properties": {
+                "jobUrl": "https://jobs.mchire.com/jobs?s\u003d686+6TH+AVE%2c+New+York%2c+NY",
+                "MCDELIVERY_URL": "https://www.ubereats.com/store/mcdonalds-flatiron-686-6th-ave/l9GAKMzbRcO7MkPyGTZm_g",
+                "shortDescription": "686 6TH AVE",
+                "longDescription": "686 6TH AVE",
+                "todayHours": "06:00 - 00:00",
+                "driveTodayHours": "06:30 - 00:00",
+                "id": "195500285894:en-US",
+                "filterType": [
+                    "GIFTCARDS",
+                    "INDOORDINING",
+                    "KIOSKAUDIOACCESSIBILITY",
+                    "LINKEDPAY",
+                    "LOYALTY",
+                    "MCDELIVERY",
+                    "MOBILEOFFERS",
+                    "MOBILEORDERS",
+                    "NED",
+                    "ROA",
+                    "WIFI"
+                ],
+                "addressLine1": "686 6th Ave",
+                "addressLine3": "New York",
+                "addressLine4": "United States",
+                "subDivision": "NY",
+                "postcode": "10010",
+                "customAddress": "New York, NY 10010",
+                "telephone": "(212) 604-0621",
+                "restauranthours": {
+                    "hoursMonday": "06:00 - 00:00",
+                    "hoursTuesday": "06:00 - 00:00",
+                    "hoursWednesday": "06:00 - 00:00",
+                    "hoursThursday": "06:00 - 00:00",
+                    "hoursFriday": "06:00 - 00:00",
+                    "hoursSaturday": "00:00 - 00:00",
+                    "hoursSunday": "00:00 - 00:00"
+                },
+                "identifiers": {
+                    "storeIdentifier": [
+                        {
+                            "identifierType": "NATLSTRNUMBER",
+                            "identifierValue": "17480"
+                        },
+                        {
+                            "identifierType": "Entity",
+                            "identifierValue": "20757"
+                        },
+                        {
+                            "identifierType": "Region ID",
+                            "identifierValue": "30"
+                        },
+                        {
+                            "identifierType": "Co-Op",
+                            "identifierValue": "STAMFORD FIELD OFFICE"
+                        },
+                        {
+                            "identifierType": "Co-Op ID",
+                            "identifierValue": "246"
+                        },
+                        {
+                            "identifierType": "Co-Op Name",
+                            "identifierValue": "NEW YORK METRO"
+                        },
+                        {
+                            "identifierType": "TV-Market ID",
+                            "identifierValue": "16200"
+                        },
+                        {
+                            "identifierType": "TV-Market Name",
+                            "identifierValue": "NEW YORK CITY, NY"
+                        }
+                    ]
+                },
+                "birthDaysParties": "0",
+                "driveThru": "0",
+                "outDoorPlayGround": "0",
+                "indoorPlayGround": "0",
+                "wifi": "0",
+                "breakFast": "0",
+                "nightMenu": "0",
+                "giftCards": "0",
+                "mobileOffers": "0",
+                "restaurantUrl": "https://jobs.mchire.com/jobs?s\u003d686+6TH+AVE%2c+New+York%2c+NY",
+                "openstatus": "OPEN",
+                "identifierValue": "17480",
+                "timeZone": "(GMT-05:00) Eastern Time (US \u0026 Canada)",
+                "mcDeliveries": {
+                    "mcDelivery": [
+                        {
+                            "identifier": "DOORDASH",
+                            "marketingName": "Door Dash",
+                            "deliveryURL": "https://www.doordash.com/store/837197"
+                        },
+                        {
+                            "identifier": "GRUBHUB",
+                            "marketingName": "Grub Hub",
+                            "deliveryURL": "https://grubhub.com/restaurant/3121164?utm_source\u003dmcdonalds_website\u0026utm_medium\u003denterprise-rest_partner\u0026utm_campaign\u003drest-brand_5de59e10-3ba6-11e9-b0a9-3d145c71a10c\u0026utm_content\u003dmcdonalds"
+                        },
+                        {
+                            "identifier": "UBEREATS",
+                            "marketingName": "Uber Eats",
+                            "deliveryURL": "https://www.ubereats.com/store/mcdonalds-flatiron-686-6th-ave/l9GAKMzbRcO7MkPyGTZm_g"
+                        },
+                        {
+                            "identifier": "MYMCDONALDS",
+                            "marketingName": "MyMcDonald\u0027s",
+                            "deliveryURL": "https://mcdonalds.smart.link/yotm502tc?site_id\u003ddownload-app\u0026amp;creative_id\u003d1col-publication"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.987856,
+                    40.740654
+                ]
+            },
+            "properties": {
+                "jobUrl": "https://jobs.mchire.com/jobs?s\u003d26+E+23RD+ST%2c+New+York%2c+NY",
+                "MCDELIVERY_URL": "https://www.ubereats.com/store/mcdonalds-flatiron-23rd-st/a8JZk2L3QdyU2ACBX4vbbw",
+                "shortDescription": "23 EAST 23RD ST.",
+                "longDescription": "26 EAST 23RD ST.",
+                "todayHours": "07:00 - 23:00",
+                "driveTodayHours": "07:00 - 23:00",
+                "id": "195500566542:en-US",
+                "filterType": [
+                    "GIFTCARDS",
+                    "INDOORDINING",
+                    "LINKEDPAY",
+                    "LOYALTY",
+                    "MCDELIVERY",
+                    "MOBILEOFFERS",
+                    "MOBILEORDERS",
+                    "NED",
+                    "ROA",
+                    "WIFI"
+                ],
+                "addressLine1": "26 E 23rd St",
+                "addressLine3": "New York",
+                "addressLine4": "United States",
+                "subDivision": "NY",
+                "postcode": "10010",
+                "customAddress": "New York, NY 10010",
+                "telephone": "(646) 682-9277",
+                "restauranthours": {
+                    "hoursMonday": "07:00 - 23:00",
+                    "hoursTuesday": "07:00 - 23:00",
+                    "hoursWednesday": "07:00 - 23:00",
+                    "hoursThursday": "07:00 - 23:00",
+                    "hoursFriday": "07:00 - 23:00",
+                    "hoursSaturday": "07:00 - 23:00",
+                    "hoursSunday": "07:00 - 23:00"
+                },
+                "identifiers": {
+                    "storeIdentifier": [
+                        {
+                            "identifierType": "NATLSTRNUMBER",
+                            "identifierValue": "33536"
+                        },
+                        {
+                            "identifierType": "Entity",
+                            "identifierValue": "184162"
+                        },
+                        {
+                            "identifierType": "Region ID",
+                            "identifierValue": "30"
+                        },
+                        {
+                            "identifierType": "Co-Op",
+                            "identifierValue": "STAMFORD FIELD OFFICE"
+                        },
+                        {
+                            "identifierType": "Co-Op ID",
+                            "identifierValue": "246"
+                        },
+                        {
+                            "identifierType": "Co-Op Name",
+                            "identifierValue": "NEW YORK METRO"
+                        },
+                        {
+                            "identifierType": "TV-Market ID",
+                            "identifierValue": "16200"
+                        },
+                        {
+                            "identifierType": "TV-Market Name",
+                            "identifierValue": "NEW YORK CITY, NY"
+                        }
+                    ]
+                },
+                "birthDaysParties": "0",
+                "driveThru": "0",
+                "outDoorPlayGround": "0",
+                "indoorPlayGround": "0",
+                "wifi": "0",
+                "breakFast": "0",
+                "nightMenu": "0",
+                "giftCards": "0",
+                "mobileOffers": "0",
+                "restaurantUrl": "https://jobs.mchire.com/jobs?s\u003d26+E+23RD+ST%2c+New+York%2c+NY",
+                "openstatus": "OPEN",
+                "identifierValue": "33536",
+                "timeZone": "(GMT-05:00) Eastern Time (US \u0026 Canada)",
+                "mcDeliveries": {
+                    "mcDelivery": [
+                        {
+                            "identifier": "DOORDASH",
+                            "marketingName": "Door Dash",
+                            "deliveryURL": "https://www.doordash.com/store/800214"
+                        },
+                        {
+                            "identifier": "GRUBHUB",
+                            "marketingName": "Grub Hub",
+                            "deliveryURL": "https://grubhub.com/restaurant/1339099?utm_source\u003dmcdonalds_website\u0026utm_medium\u003denterprise-rest_partner\u0026utm_campaign\u003drest-brand_5de59e10-3ba6-11e9-b0a9-3d145c71a10c\u0026utm_content\u003dmcdonalds"
+                        },
+                        {
+                            "identifier": "UBEREATS",
+                            "marketingName": "Uber Eats",
+                            "deliveryURL": "https://www.ubereats.com/store/mcdonalds-flatiron-23rd-st/a8JZk2L3QdyU2ACBX4vbbw"
+                        },
+                        {
+                            "identifier": "MYMCDONALDS",
+                            "marketingName": "MyMcDonald\u0027s",
+                            "deliveryURL": "https://mcdonalds.smart.link/yotm502tc?site_id\u003ddownload-app\u0026amp;creative_id\u003d1col-publication"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.979165,
+                    40.736945
+                ]
+            },
+            "properties": {
+                "jobUrl": "https://jobs.mchire.com/jobs?s\u003d336+E+23RD+ST%2c+New+York%2c+NY",
+                "MCDELIVERY_URL": "https://www.ubereats.com/store/mcdonalds-gramercy-23rd-st/bdenGQBMQB6Usxt2jf2M3Q",
+                "shortDescription": "MANHATTAN-23RD",
+                "longDescription": "MANHATTAN-23RD",
+                "todayHours": "06:00 - 00:00",
+                "driveTodayHours": "06:00 - 00:00",
+                "id": "195500281742:en-US",
+                "filterType": [
+                    "GIFTCARDS",
+                    "INDOORDINING",
+                    "KIOSKAUDIOACCESSIBILITY",
+                    "LINKEDPAY",
+                    "LOYALTY",
+                    "MCDELIVERY",
+                    "MOBILEOFFERS",
+                    "MOBILEORDERS",
+                    "NED",
+                    "ROA",
+                    "WIFI"
+                ],
+                "addressLine1": "336 E 23rd St",
+                "addressLine3": "New York",
+                "addressLine4": "United States",
+                "subDivision": "NY",
+                "postcode": "10010",
+                "customAddress": "New York, NY 10010",
+                "telephone": "(212) 228-5529",
+                "restauranthours": {
+                    "hoursMonday": "06:00 - 00:00",
+                    "hoursTuesday": "06:00 - 00:00",
+                    "hoursWednesday": "06:00 - 00:00",
+                    "hoursThursday": "00:00 - 00:00",
+                    "hoursFriday": "00:00 - 00:00",
+                    "hoursSaturday": "00:00 - 00:00",
+                    "hoursSunday": "06:00 - 00:00"
+                },
+                "identifiers": {
+                    "storeIdentifier": [
+                        {
+                            "identifierType": "NATLSTRNUMBER",
+                            "identifierValue": "2241"
+                        },
+                        {
+                            "identifierType": "Entity",
+                            "identifierValue": "19355"
+                        },
+                        {
+                            "identifierType": "Region ID",
+                            "identifierValue": "30"
+                        },
+                        {
+                            "identifierType": "Co-Op",
+                            "identifierValue": "STAMFORD FIELD OFFICE"
+                        },
+                        {
+                            "identifierType": "Co-Op ID",
+                            "identifierValue": "246"
+                        },
+                        {
+                            "identifierType": "Co-Op Name",
+                            "identifierValue": "NEW YORK METRO"
+                        },
+                        {
+                            "identifierType": "TV-Market ID",
+                            "identifierValue": "16200"
+                        },
+                        {
+                            "identifierType": "TV-Market Name",
+                            "identifierValue": "NEW YORK CITY, NY"
+                        }
+                    ]
+                },
+                "birthDaysParties": "0",
+                "driveThru": "0",
+                "outDoorPlayGround": "0",
+                "indoorPlayGround": "0",
+                "wifi": "0",
+                "breakFast": "0",
+                "nightMenu": "0",
+                "giftCards": "0",
+                "mobileOffers": "0",
+                "restaurantUrl": "https://jobs.mchire.com/jobs?s\u003d336+E+23RD+ST%2c+New+York%2c+NY",
+                "openstatus": "OPEN",
+                "identifierValue": "2241",
+                "timeZone": "(GMT-05:00) Eastern Time (US \u0026 Canada)",
+                "mcDeliveries": {
+                    "mcDelivery": [
+                        {
+                            "identifier": "DOORDASH",
+                            "marketingName": "Door Dash",
+                            "deliveryURL": "https://www.doordash.com/store/837201"
+                        },
+                        {
+                            "identifier": "GRUBHUB",
+                            "marketingName": "Grub Hub",
+                            "deliveryURL": "https://grubhub.com/restaurant/3121371?utm_source\u003dmcdonalds_website\u0026utm_medium\u003denterprise-rest_partner\u0026utm_campaign\u003drest-brand_5de59e10-3ba6-11e9-b0a9-3d145c71a10c\u0026utm_content\u003dmcdonalds"
+                        },
+                        {
+                            "identifier": "UBEREATS",
+                            "marketingName": "Uber Eats",
+                            "deliveryURL": "https://www.ubereats.com/store/mcdonalds-gramercy-23rd-st/bdenGQBMQB6Usxt2jf2M3Q"
+                        },
+                        {
+                            "identifier": "MYMCDONALDS",
+                            "marketingName": "MyMcDonald\u0027s",
+                            "deliveryURL": "https://mcdonalds.smart.link/yotm502tc?site_id\u003ddownload-app\u0026amp;creative_id\u003d1col-publication"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -74.0426,
+                    40.729858
+                ]
+            },
+            "properties": {
+                "jobUrl": "https://careers.mcdonalds.com/us-restaurants/jobs?page\u003d1\u0026stretch\u003d0\u0026stretchUnit\u003dMILES\u0026location\u003d197%2012TH%20ST%20JERSEY%20CITY%20NJ%2007310",
+                "MCDELIVERY_URL": "https://www.ubereats.com/store/mcdonalds-holland-tunnel-197-12th-st/PxAbCWesTl6L-IPtESKBig",
+                "shortDescription": "HOLLAND TUNNEL",
+                "longDescription": "HOLLAND TUNNEL 197 12TH ST. JERSEY CITY",
+                "todayHours": "04:00 - 04:15",
+                "driveTodayHours": "00:00 - 00:00",
+                "id": "195500773964:en-US",
+                "filterType": [
+                    "DRIVETHRU",
+                    "GIFTCARDS",
+                    "LINKEDPAY",
+                    "LOYALTY",
+                    "MCDELIVERY",
+                    "MOBILEOFFERS",
+                    "MOBILEORDERS",
+                    "ROA",
+                    "TWENTYFOURHOURS",
+                    "WIFI"
+                ],
+                "addressLine1": "197 12th St",
+                "addressLine3": "Jersey City",
+                "addressLine4": "United States",
+                "subDivision": "NJ",
+                "postcode": "07310",
+                "customAddress": "Jersey City, NJ 07310",
+                "telephone": "(201) 763-9994",
+                "drivethruhours": {
+                    "driveHoursMonday": "00:00 - 00:00",
+                    "driveHoursTuesday": "00:00 - 00:00",
+                    "driveHoursWednesday": "00:00 - 00:00",
+                    "driveHoursThursday": "00:00 - 00:00",
+                    "driveHoursFriday": "00:00 - 00:00",
+                    "driveHoursSaturday": "00:00 - 00:00",
+                    "driveHoursSunday": "00:00 - 00:00"
+                },
+                "identifiers": {
+                    "storeIdentifier": [
+                        {
+                            "identifierType": "NATLSTRNUMBER",
+                            "identifierValue": "36171"
+                        },
+                        {
+                            "identifierType": "Entity",
+                            "identifierValue": "200070"
+                        },
+                        {
+                            "identifierType": "Region ID",
+                            "identifierValue": "30"
+                        },
+                        {
+                            "identifierType": "Co-Op",
+                            "identifierValue": "STAMFORD FIELD OFFICE"
+                        },
+                        {
+                            "identifierType": "Co-Op ID",
+                            "identifierValue": "246"
+                        },
+                        {
+                            "identifierType": "Co-Op Name",
+                            "identifierValue": "NEW YORK METRO"
+                        },
+                        {
+                            "identifierType": "TV-Market ID",
+                            "identifierValue": "16200"
+                        },
+                        {
+                            "identifierType": "TV-Market Name",
+                            "identifierValue": "NEW YORK CITY, NY"
+                        }
+                    ]
+                },
+                "birthDaysParties": "0",
+                "driveThru": "0",
+                "outDoorPlayGround": "0",
+                "indoorPlayGround": "0",
+                "wifi": "0",
+                "breakFast": "0",
+                "nightMenu": "0",
+                "giftCards": "0",
+                "mobileOffers": "0",
+                "restaurantUrl": "https://careers.mcdonalds.com/us-restaurants/jobs?page\u003d1\u0026stretch\u003d0\u0026stretchUnit\u003dMILES\u0026location\u003d197%2012TH%20ST%20JERSEY%20CITY%20NJ%2007310",
+                "openstatus": "OPEN",
+                "identifierValue": "36171",
+                "timeZone": "(GMT-05:00) Eastern Time (US \u0026 Canada)",
+                "mcDeliveries": {
+                    "mcDelivery": [
+                        {
+                            "identifier": "DOORDASH",
+                            "marketingName": "Door Dash",
+                            "deliveryURL": "https://www.doordash.com/store/837553"
+                        },
+                        {
+                            "identifier": "GRUBHUB",
+                            "marketingName": "Grub Hub",
+                            "deliveryURL": "https://grubhub.com/restaurant/6244176?utm_source\u003dmcdonalds_website\u0026utm_medium\u003denterprise-rest_partner\u0026utm_campaign\u003drest-brand_5de59e10-3ba6-11e9-b0a9-3d145c71a10c\u0026utm_content\u003dmcdonalds"
+                        },
+                        {
+                            "identifier": "UBEREATS",
+                            "marketingName": "Uber Eats",
+                            "deliveryURL": "https://www.ubereats.com/store/mcdonalds-holland-tunnel-197-12th-st/PxAbCWesTl6L-IPtESKBig"
+                        },
+                        {
+                            "identifier": "MYMCDONALDS",
+                            "marketingName": "MyMcDonald\u0027s",
+                            "deliveryURL": "https://mcdonalds.smart.link/yotm502tc?site_id\u003ddownload-app\u0026amp;creative_id\u003d1col-publication"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -74.030396,
+                    40.739906
+                ]
+            },
+            "properties": {
+                "jobUrl": "https://jobs.mchire.com/jobs?s\u003d234+WASHINGTON+ST%2c+Hoboken%2c+NJ",
+                "MCDELIVERY_URL": "https://www.ubereats.com/store/mcdonalds-234-washington-st/ewJXYiycRkKiSOuVK9BZDA",
+                "shortDescription": "HOBOKEN-WASHNGTN",
+                "longDescription": "HOBOKEN-WASHNGTN",
+                "todayHours": "00:00 - 00:00",
+                "driveTodayHours": "00:00 - 00:00",
+                "id": "195500273730:en-US",
+                "filterType": [
+                    "GIFTCARDS",
+                    "INDOORDINING",
+                    "LINKEDPAY",
+                    "LOYALTY",
+                    "MCDELIVERY",
+                    "MOBILEOFFERS",
+                    "MOBILEORDERS",
+                    "ROA",
+                    "TWENTYFOURHOURS",
+                    "WIFI"
+                ],
+                "addressLine1": "234 Washington St",
+                "addressLine3": "Hoboken",
+                "addressLine4": "United States",
+                "subDivision": "NJ",
+                "postcode": "07030",
+                "customAddress": "Hoboken, NJ 07030",
+                "telephone": "(201) 798-2078",
+                "restauranthours": {
+                    "hoursMonday": "00:00 - 00:00",
+                    "hoursTuesday": "00:00 - 00:00",
+                    "hoursWednesday": "00:00 - 00:00",
+                    "hoursThursday": "00:00 - 00:00",
+                    "hoursFriday": "00:00 - 00:00",
+                    "hoursSaturday": "00:00 - 00:00",
+                    "hoursSunday": "00:00 - 00:00"
+                },
+                "identifiers": {
+                    "storeIdentifier": [
+                        {
+                            "identifierType": "NATLSTRNUMBER",
+                            "identifierValue": "3876"
+                        },
+                        {
+                            "identifierType": "Entity",
+                            "identifierValue": "18209"
+                        },
+                        {
+                            "identifierType": "Region ID",
+                            "identifierValue": "30"
+                        },
+                        {
+                            "identifierType": "Co-Op",
+                            "identifierValue": "STAMFORD FIELD OFFICE"
+                        },
+                        {
+                            "identifierType": "Co-Op ID",
+                            "identifierValue": "246"
+                        },
+                        {
+                            "identifierType": "Co-Op Name",
+                            "identifierValue": "NEW YORK METRO"
+                        },
+                        {
+                            "identifierType": "TV-Market ID",
+                            "identifierValue": "16200"
+                        },
+                        {
+                            "identifierType": "TV-Market Name",
+                            "identifierValue": "NEW YORK CITY, NY"
+                        }
+                    ]
+                },
+                "birthDaysParties": "0",
+                "driveThru": "0",
+                "outDoorPlayGround": "0",
+                "indoorPlayGround": "0",
+                "wifi": "0",
+                "breakFast": "0",
+                "nightMenu": "0",
+                "giftCards": "0",
+                "mobileOffers": "0",
+                "restaurantUrl": "https://jobs.mchire.com/jobs?s\u003d234+WASHINGTON+ST%2c+Hoboken%2c+NJ",
+                "openstatus": "OPEN",
+                "identifierValue": "3876",
+                "timeZone": "(GMT-05:00) Eastern Time (US \u0026 Canada)",
+                "mcDeliveries": {
+                    "mcDelivery": [
+                        {
+                            "identifier": "DOORDASH",
+                            "marketingName": "Door Dash",
+                            "deliveryURL": "https://www.doordash.com/store/837555"
+                        },
+                        {
+                            "identifier": "GRUBHUB",
+                            "marketingName": "Grub Hub",
+                            "deliveryURL": "https://grubhub.com/restaurant/1339174?utm_source\u003dmcdonalds_website\u0026utm_medium\u003denterprise-rest_partner\u0026utm_campaign\u003drest-brand_5de59e10-3ba6-11e9-b0a9-3d145c71a10c\u0026utm_content\u003dmcdonalds"
+                        },
+                        {
+                            "identifier": "UBEREATS",
+                            "marketingName": "Uber Eats",
+                            "deliveryURL": "https://www.ubereats.com/store/mcdonalds-234-washington-st/ewJXYiycRkKiSOuVK9BZDA"
+                        },
+                        {
+                            "identifier": "MYMCDONALDS",
+                            "marketingName": "MyMcDonald\u0027s",
+                            "deliveryURL": "https://mcdonalds.smart.link/yotm502tc?site_id\u003ddownload-app\u0026amp;creative_id\u003d1col-publication"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.98393,
+                    40.743156
+                ]
+            },
+            "properties": {
+                "jobUrl": "https://jobs.mchire.com/jobs?s\u003d401+PARK+AVE+S%2c+New+York%2c+NY",
+                "MCDELIVERY_URL": "https://www.ubereats.com/store/mcdonalds-401-park-ave-28th-st/9h_CgS6aRa28YfDGgwZk-w",
+                "shortDescription": "PARK AVE-SO.",
+                "longDescription": "PARK AVE-SO.",
+                "todayHours": "00:00 - 00:00",
+                "driveTodayHours": "00:00 - 00:00",
+                "id": "195500285740:en-US",
+                "filterType": [
+                    "GIFTCARDS",
+                    "INDOORDINING",
+                    "KIOSKAUDIOACCESSIBILITY",
+                    "LINKEDPAY",
+                    "LOYALTY",
+                    "MCDELIVERY",
+                    "MOBILEOFFERS",
+                    "MOBILEORDERS",
+                    "NED",
+                    "ROA",
+                    "TWENTYFOURHOURS",
+                    "WIFI"
+                ],
+                "addressLine1": "401 Park Ave S",
+                "addressLine3": "New York",
+                "addressLine4": "United States",
+                "subDivision": "NY",
+                "postcode": "10016",
+                "customAddress": "New York, NY 10016",
+                "telephone": "(212) 683-4919",
+                "restauranthours": {
+                    "hoursMonday": "00:00 - 00:00",
+                    "hoursTuesday": "00:00 - 00:00",
+                    "hoursWednesday": "00:00 - 00:00",
+                    "hoursThursday": "00:00 - 00:00",
+                    "hoursFriday": "00:00 - 00:00",
+                    "hoursSaturday": "00:00 - 00:00",
+                    "hoursSunday": "00:00 - 00:00"
+                },
+                "identifiers": {
+                    "storeIdentifier": [
+                        {
+                            "identifierType": "NATLSTRNUMBER",
+                            "identifierValue": "14971"
+                        },
+                        {
+                            "identifierType": "Entity",
+                            "identifierValue": "20720"
+                        },
+                        {
+                            "identifierType": "Region ID",
+                            "identifierValue": "30"
+                        },
+                        {
+                            "identifierType": "Co-Op",
+                            "identifierValue": "STAMFORD FIELD OFFICE"
+                        },
+                        {
+                            "identifierType": "Co-Op ID",
+                            "identifierValue": "246"
+                        },
+                        {
+                            "identifierType": "Co-Op Name",
+                            "identifierValue": "NEW YORK METRO"
+                        },
+                        {
+                            "identifierType": "TV-Market ID",
+                            "identifierValue": "16200"
+                        },
+                        {
+                            "identifierType": "TV-Market Name",
+                            "identifierValue": "NEW YORK CITY, NY"
+                        }
+                    ]
+                },
+                "birthDaysParties": "0",
+                "driveThru": "0",
+                "outDoorPlayGround": "0",
+                "indoorPlayGround": "0",
+                "wifi": "0",
+                "breakFast": "0",
+                "nightMenu": "0",
+                "giftCards": "0",
+                "mobileOffers": "0",
+                "restaurantUrl": "https://jobs.mchire.com/jobs?s\u003d401+PARK+AVE+S%2c+New+York%2c+NY",
+                "openstatus": "OPEN",
+                "identifierValue": "14971",
+                "timeZone": "(GMT-05:00) Eastern Time (US \u0026 Canada)",
+                "mcDeliveries": {
+                    "mcDelivery": [
+                        {
+                            "identifier": "DOORDASH",
+                            "marketingName": "Door Dash",
+                            "deliveryURL": "https://www.doordash.com/store/837192"
+                        },
+                        {
+                            "identifier": "GRUBHUB",
+                            "marketingName": "Grub Hub",
+                            "deliveryURL": "https://grubhub.com/restaurant/1338355?utm_source\u003dmcdonalds_website\u0026utm_medium\u003denterprise-rest_partner\u0026utm_campaign\u003drest-brand_5de59e10-3ba6-11e9-b0a9-3d145c71a10c\u0026utm_content\u003dmcdonalds"
+                        },
+                        {
+                            "identifier": "UBEREATS",
+                            "marketingName": "Uber Eats",
+                            "deliveryURL": "https://www.ubereats.com/store/mcdonalds-401-park-ave-28th-st/9h_CgS6aRa28YfDGgwZk-w"
+                        },
+                        {
+                            "identifier": "MYMCDONALDS",
+                            "marketingName": "MyMcDonald\u0027s",
+                            "deliveryURL": "https://mcdonalds.smart.link/yotm502tc?site_id\u003ddownload-app\u0026amp;creative_id\u003d1col-publication"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.990845,
+                    40.745995
+                ]
+            },
+            "properties": {
+                "MCDELIVERY_URL": "https://www.ubereats.com/store/mcdonalds-28th-%26-6th-ave/Xw7JUbp-RTWECfp85bRfKQ",
+                "shortDescription": "NYC-809 6TH AVE",
+                "longDescription": "NYC-809 6TH AVE",
+                "todayHours": "07:00 - 23:00",
+                "driveTodayHours": "07:00 - 23:00",
+                "id": "195500283081:en-US",
+                "filterType": [
+                    "GIFTCARDS",
+                    "INDOORDINING",
+                    "LINKEDPAY",
+                    "LOYALTY",
+                    "MCDELIVERY",
+                    "MOBILEOFFERS",
+                    "MOBILEORDERS",
+                    "NED",
+                    "ROA",
+                    "WIFI"
+                ],
+                "addressLine1": "809 Ave Of The Americas",
+                "addressLine3": "Manhattan",
+                "addressLine4": "United States",
+                "subDivision": "NY",
+                "postcode": "10001",
+                "customAddress": "Manhattan, NY 10001",
+                "telephone": "(212) 463-9495",
+                "restauranthours": {
+                    "hoursMonday": "07:00 - 23:00",
+                    "hoursTuesday": "07:00 - 23:00",
+                    "hoursWednesday": "07:00 - 23:00",
+                    "hoursThursday": "07:00 - 23:00",
+                    "hoursFriday": "07:00 - 23:00",
+                    "hoursSaturday": "07:00 - 23:00",
+                    "hoursSunday": "07:00 - 23:00"
+                },
+                "identifiers": {
+                    "storeIdentifier": [
+                        {
+                            "identifierType": "NATLSTRNUMBER",
+                            "identifierValue": "3835"
+                        },
+                        {
+                            "identifierType": "Entity",
+                            "identifierValue": "19646"
+                        },
+                        {
+                            "identifierType": "Region ID",
+                            "identifierValue": "30"
+                        },
+                        {
+                            "identifierType": "Co-Op",
+                            "identifierValue": "STAMFORD FIELD OFFICE"
+                        },
+                        {
+                            "identifierType": "Co-Op ID",
+                            "identifierValue": "246"
+                        },
+                        {
+                            "identifierType": "Co-Op Name",
+                            "identifierValue": "NEW YORK METRO"
+                        },
+                        {
+                            "identifierType": "TV-Market ID",
+                            "identifierValue": "16200"
+                        },
+                        {
+                            "identifierType": "TV-Market Name",
+                            "identifierValue": "NEW YORK CITY, NY"
+                        }
+                    ]
+                },
+                "birthDaysParties": "0",
+                "driveThru": "0",
+                "outDoorPlayGround": "0",
+                "indoorPlayGround": "0",
+                "wifi": "0",
+                "breakFast": "0",
+                "nightMenu": "0",
+                "giftCards": "0",
+                "mobileOffers": "0",
+                "openstatus": "OPEN",
+                "identifierValue": "3835",
+                "timeZone": "(GMT-05:00) Eastern Time (US \u0026 Canada)",
+                "mcDeliveries": {
+                    "mcDelivery": [
+                        {
+                            "identifier": "DOORDASH",
+                            "marketingName": "Door Dash",
+                            "deliveryURL": "https://www.doordash.com/store/837230"
+                        },
+                        {
+                            "identifier": "GRUBHUB",
+                            "marketingName": "Grub Hub",
+                            "deliveryURL": "https://grubhub.com/restaurant/1339076?utm_source\u003dmcdonalds_website\u0026utm_medium\u003denterprise-rest_partner\u0026utm_campaign\u003drest-brand_5de59e10-3ba6-11e9-b0a9-3d145c71a10c\u0026utm_content\u003dmcdonalds"
+                        },
+                        {
+                            "identifier": "UBEREATS",
+                            "marketingName": "Uber Eats",
+                            "deliveryURL": "https://www.ubereats.com/store/mcdonalds-28th-%26-6th-ave/Xw7JUbp-RTWECfp85bRfKQ"
+                        },
+                        {
+                            "identifier": "MYMCDONALDS",
+                            "marketingName": "MyMcDonald\u0027s",
+                            "deliveryURL": "https://mcdonalds.smart.link/yotm502tc?site_id\u003ddownload-app\u0026amp;creative_id\u003d1col-publication"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.977473,
+                    40.684713
+                ]
+            },
+            "properties": {
+                "jobUrl": "https://jobs.mchire.com/jobs?s\u003dATLANTIC+TERMINAL%2c+Brooklyn%2c+NY",
+                "MCDELIVERY_URL": "https://www.ubereats.com/store/mcdonalds-atlantic-terminal/7L8yv7LJS66-_8k6mPaO0Q",
+                "shortDescription": "ATLANTIC TERMINA",
+                "longDescription": "ATLANTIC TERMINAL",
+                "todayHours": "07:00 - 22:00",
+                "driveTodayHours": "00:00 - 00:00",
+                "id": "195500343464:en-US",
+                "filterType": [
+                    "GIFTCARDS",
+                    "INDOORDINING",
+                    "LINKEDPAY",
+                    "LOYALTY",
+                    "MCDELIVERY",
+                    "MOBILEOFFERS",
+                    "MOBILEORDERS",
+                    "NED",
+                    "ROA",
+                    "TWENTYFOURHOURS",
+                    "WIFI"
+                ],
+                "addressLine1": "139 Flatbush Ave (Atlantic Terminal)",
+                "addressLine3": "Brooklyn",
+                "addressLine4": "United States",
+                "subDivision": "NY",
+                "postcode": "11217",
+                "customAddress": "Brooklyn, NY 11217",
+                "telephone": "(917) 618-6032",
+                "restauranthours": {
+                    "hoursMonday": "07:00 - 22:00",
+                    "hoursTuesday": "07:00 - 22:00",
+                    "hoursWednesday": "07:00 - 22:00",
+                    "hoursThursday": "07:00 - 22:00",
+                    "hoursFriday": "07:00 - 23:00",
+                    "hoursSaturday": "07:00 - 23:00",
+                    "hoursSunday": "08:00 - 20:00"
+                },
+                "identifiers": {
+                    "storeIdentifier": [
+                        {
+                            "identifierType": "NATLSTRNUMBER",
+                            "identifierValue": "27008"
+                        },
+                        {
+                            "identifierType": "Entity",
+                            "identifierValue": "148715"
+                        },
+                        {
+                            "identifierType": "Region ID",
+                            "identifierValue": "30"
+                        },
+                        {
+                            "identifierType": "Co-Op",
+                            "identifierValue": "STAMFORD FIELD OFFICE"
+                        },
+                        {
+                            "identifierType": "Co-Op ID",
+                            "identifierValue": "246"
+                        },
+                        {
+                            "identifierType": "Co-Op Name",
+                            "identifierValue": "NEW YORK METRO"
+                        },
+                        {
+                            "identifierType": "TV-Market ID",
+                            "identifierValue": "16200"
+                        },
+                        {
+                            "identifierType": "TV-Market Name",
+                            "identifierValue": "NEW YORK CITY, NY"
+                        }
+                    ]
+                },
+                "birthDaysParties": "0",
+                "driveThru": "0",
+                "outDoorPlayGround": "0",
+                "indoorPlayGround": "0",
+                "wifi": "0",
+                "breakFast": "0",
+                "nightMenu": "0",
+                "giftCards": "0",
+                "mobileOffers": "0",
+                "restaurantUrl": "https://jobs.mchire.com/jobs?s\u003dATLANTIC+TERMINAL%2c+Brooklyn%2c+NY",
+                "openstatus": "OPEN",
+                "identifierValue": "27008",
+                "timeZone": "(GMT-05:00) Eastern Time (US \u0026 Canada)",
+                "mcDeliveries": {
+                    "mcDelivery": [
+                        {
+                            "identifier": "DOORDASH",
+                            "marketingName": "Door Dash",
+                            "deliveryURL": "https://www.doordash.com/store/837673"
+                        },
+                        {
+                            "identifier": "GRUBHUB",
+                            "marketingName": "Grub Hub",
+                            "deliveryURL": "https://grubhub.com/restaurant/2962973?utm_source\u003dmcdonalds_website\u0026utm_medium\u003denterprise-rest_partner\u0026utm_campaign\u003drest-brand_5de59e10-3ba6-11e9-b0a9-3d145c71a10c\u0026utm_content\u003dmcdonalds"
+                        },
+                        {
+                            "identifier": "UBEREATS",
+                            "marketingName": "Uber Eats",
+                            "deliveryURL": "https://www.ubereats.com/store/mcdonalds-atlantic-terminal/7L8yv7LJS66-_8k6mPaO0Q"
+                        },
+                        {
+                            "identifier": "MYMCDONALDS",
+                            "marketingName": "MyMcDonald\u0027s",
+                            "deliveryURL": "https://mcdonalds.smart.link/yotm502tc?site_id\u003ddownload-app\u0026amp;creative_id\u003d1col-publication"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.959017,
+                    40.70893
+                ]
+            },
+            "properties": {
+                "jobUrl": "https://jobs.mchire.com/jobs?s\u003d267+BROADWAY%2c+Brooklyn%2c+NY",
+                "MCDELIVERY_URL": "https://www.ubereats.com/store/mcdonalds-williamsburg-broadway-%26-havemeyer/Jnjl_ZMcTCmeSZ32JsbjNw",
+                "shortDescription": "267 BDWY BRKLYN",
+                "longDescription": "267 BDWY BRKLYN",
+                "todayHours": "06:00 - 00:00",
+                "driveTodayHours": "06:00 - 00:00",
+                "id": "195500286761:en-US",
+                "filterType": [
+                    "GIFTCARDS",
+                    "INDOORDINING",
+                    "LINKEDPAY",
+                    "LOYALTY",
+                    "MCDELIVERY",
+                    "MOBILEOFFERS",
+                    "MOBILEORDERS",
+                    "NED",
+                    "ROA",
+                    "WIFI"
+                ],
+                "addressLine1": "267 Broadway",
+                "addressLine3": "Brooklyn",
+                "addressLine4": "United States",
+                "subDivision": "NY",
+                "postcode": "11211",
+                "customAddress": "Brooklyn, NY 11211",
+                "telephone": "(718) 302-3177",
+                "restauranthours": {
+                    "hoursMonday": "06:00 - 00:00",
+                    "hoursTuesday": "06:00 - 00:00",
+                    "hoursWednesday": "06:00 - 00:00",
+                    "hoursThursday": "06:00 - 00:00",
+                    "hoursFriday": "06:00 - 00:00",
+                    "hoursSaturday": "06:00 - 00:00",
+                    "hoursSunday": "06:00 - 00:00"
+                },
+                "identifiers": {
+                    "storeIdentifier": [
+                        {
+                            "identifierType": "NATLSTRNUMBER",
+                            "identifierValue": "21402"
+                        },
+                        {
+                            "identifierType": "Entity",
+                            "identifierValue": "21007"
+                        },
+                        {
+                            "identifierType": "Region ID",
+                            "identifierValue": "30"
+                        },
+                        {
+                            "identifierType": "Co-Op",
+                            "identifierValue": "STAMFORD FIELD OFFICE"
+                        },
+                        {
+                            "identifierType": "Co-Op ID",
+                            "identifierValue": "246"
+                        },
+                        {
+                            "identifierType": "Co-Op Name",
+                            "identifierValue": "NEW YORK METRO"
+                        },
+                        {
+                            "identifierType": "TV-Market ID",
+                            "identifierValue": "16200"
+                        },
+                        {
+                            "identifierType": "TV-Market Name",
+                            "identifierValue": "NEW YORK CITY, NY"
+                        }
+                    ]
+                },
+                "birthDaysParties": "0",
+                "driveThru": "0",
+                "outDoorPlayGround": "0",
+                "indoorPlayGround": "0",
+                "wifi": "0",
+                "breakFast": "0",
+                "nightMenu": "0",
+                "giftCards": "0",
+                "mobileOffers": "0",
+                "restaurantUrl": "https://jobs.mchire.com/jobs?s\u003d267+BROADWAY%2c+Brooklyn%2c+NY",
+                "openstatus": "OPEN",
+                "identifierValue": "21402",
+                "timeZone": "(GMT-05:00) Eastern Time (US \u0026 Canada)",
+                "mcDeliveries": {
+                    "mcDelivery": [
+                        {
+                            "identifier": "DOORDASH",
+                            "marketingName": "Door Dash",
+                            "deliveryURL": "https://www.doordash.com/store/837652"
+                        },
+                        {
+                            "identifier": "GRUBHUB",
+                            "marketingName": "Grub Hub",
+                            "deliveryURL": "https://grubhub.com/restaurant/1339391?utm_source\u003dmcdonalds_website\u0026utm_medium\u003denterprise-rest_partner\u0026utm_campaign\u003drest-brand_5de59e10-3ba6-11e9-b0a9-3d145c71a10c\u0026utm_content\u003dmcdonalds"
+                        },
+                        {
+                            "identifier": "UBEREATS",
+                            "marketingName": "Uber Eats",
+                            "deliveryURL": "https://www.ubereats.com/store/mcdonalds-williamsburg-broadway-%26-havemeyer/Jnjl_ZMcTCmeSZ32JsbjNw"
+                        },
+                        {
+                            "identifier": "MYMCDONALDS",
+                            "marketingName": "MyMcDonald\u0027s",
+                            "deliveryURL": "https://mcdonalds.smart.link/yotm502tc?site_id\u003ddownload-app\u0026amp;creative_id\u003d1col-publication"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -74.053314,
+                    40.717419
+                ]
+            },
+            "properties": {
+                "jobUrl": "https://jobs.mchire.com/jobs?s\u003d428+GRAND+ST%2c+Jersey+City%2c+NJ",
+                "MCDELIVERY_URL": "https://www.ubereats.com/store/mcdonalds-jersey-old-colny/viDvJd3ORkqaSwOkbQw6NQ",
+                "shortDescription": "JERSEY OLD COLNY",
+                "longDescription": "JERSEY-OLD COLONY",
+                "todayHours": "06:00 - 23:00",
+                "driveTodayHours": "00:00 - 00:00",
+                "id": "195500276373:en-US",
+                "filterType": [
+                    "DRIVETHRU",
+                    "GIFTCARDS",
+                    "INDOORDINING",
+                    "LINKEDPAY",
+                    "LOYALTY",
+                    "MCDELIVERY",
+                    "MOBILEOFFERS",
+                    "MOBILEORDERS",
+                    "ROA",
+                    "TWENTYFOURHOURS",
+                    "WIFI"
+                ],
+                "addressLine1": "428 Grand St",
+                "addressLine3": "Jersey City",
+                "addressLine4": "United States",
+                "subDivision": "NJ",
+                "postcode": "07303",
+                "customAddress": "Jersey City, NJ 07303",
+                "telephone": "(201) 433-0055",
+                "restauranthours": {
+                    "hoursMonday": "06:00 - 23:00",
+                    "hoursTuesday": "06:00 - 23:00",
+                    "hoursWednesday": "06:00 - 23:00",
+                    "hoursThursday": "06:00 - 23:00",
+                    "hoursFriday": "06:00 - 23:00",
+                    "hoursSaturday": "06:00 - 23:00",
+                    "hoursSunday": "06:00 - 23:00"
+                },
+                "drivethruhours": {
+                    "driveHoursMonday": "00:00 - 00:00",
+                    "driveHoursTuesday": "00:00 - 00:00",
+                    "driveHoursWednesday": "00:00 - 00:00",
+                    "driveHoursThursday": "00:00 - 00:00",
+                    "driveHoursFriday": "00:00 - 00:00",
+                    "driveHoursSaturday": "00:00 - 00:00",
+                    "driveHoursSunday": "00:00 - 00:00"
+                },
+                "identifiers": {
+                    "storeIdentifier": [
+                        {
+                            "identifierType": "NATLSTRNUMBER",
+                            "identifierValue": "10074"
+                        },
+                        {
+                            "identifierType": "Entity",
+                            "identifierValue": "18369"
+                        },
+                        {
+                            "identifierType": "Region ID",
+                            "identifierValue": "30"
+                        },
+                        {
+                            "identifierType": "Co-Op",
+                            "identifierValue": "STAMFORD FIELD OFFICE"
+                        },
+                        {
+                            "identifierType": "Co-Op ID",
+                            "identifierValue": "246"
+                        },
+                        {
+                            "identifierType": "Co-Op Name",
+                            "identifierValue": "NEW YORK METRO"
+                        },
+                        {
+                            "identifierType": "TV-Market ID",
+                            "identifierValue": "16200"
+                        },
+                        {
+                            "identifierType": "TV-Market Name",
+                            "identifierValue": "NEW YORK CITY, NY"
+                        }
+                    ]
+                },
+                "birthDaysParties": "0",
+                "driveThru": "0",
+                "outDoorPlayGround": "0",
+                "indoorPlayGround": "0",
+                "wifi": "0",
+                "breakFast": "0",
+                "nightMenu": "0",
+                "giftCards": "0",
+                "mobileOffers": "0",
+                "restaurantUrl": "https://jobs.mchire.com/jobs?s\u003d428+GRAND+ST%2c+Jersey+City%2c+NJ",
+                "openstatus": "OPEN",
+                "identifierValue": "10074",
+                "timeZone": "(GMT-05:00) Eastern Time (US \u0026 Canada)",
+                "mcDeliveries": {
+                    "mcDelivery": [
+                        {
+                            "identifier": "DOORDASH",
+                            "marketingName": "Door Dash",
+                            "deliveryURL": "https://www.doordash.com/store/837182"
+                        },
+                        {
+                            "identifier": "GRUBHUB",
+                            "marketingName": "Grub Hub",
+                            "deliveryURL": "https://grubhub.com/restaurant/6247224?utm_source\u003dmcdonalds_website\u0026utm_medium\u003denterprise-rest_partner\u0026utm_campaign\u003drest-brand_5de59e10-3ba6-11e9-b0a9-3d145c71a10c\u0026utm_content\u003dmcdonalds"
+                        },
+                        {
+                            "identifier": "UBEREATS",
+                            "marketingName": "Uber Eats",
+                            "deliveryURL": "https://www.ubereats.com/store/mcdonalds-jersey-old-colny/viDvJd3ORkqaSwOkbQw6NQ"
+                        },
+                        {
+                            "identifier": "MYMCDONALDS",
+                            "marketingName": "MyMcDonald\u0027s",
+                            "deliveryURL": "https://mcdonalds.smart.link/yotm502tc?site_id\u003ddownload-app\u0026amp;creative_id\u003d1col-publication"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.978949,
+                    40.744904
+                ]
+            },
+            "properties": {
+                "jobUrl": "https://jobs.mchire.com/jobs?s\u003d480+3RD+AVE%2c+New+York%2c+NY",
+                "MCDELIVERY_URL": "https://www.ubereats.com/store/mcdonalds-murray-hill-33rd-and-3rd/NcrmyrixRHSBZrtH8B1riA",
+                "shortDescription": "NW YORK-3RD AVE",
+                "longDescription": "NW YORK-3RD AVE",
+                "todayHours": "00:00 - 00:00",
+                "driveTodayHours": "00:00 - 00:00",
+                "id": "195500282374:en-US",
+                "filterType": [
+                    "GIFTCARDS",
+                    "INDOORDINING",
+                    "LINKEDPAY",
+                    "LOYALTY",
+                    "MCDELIVERY",
+                    "MOBILEOFFERS",
+                    "MOBILEORDERS",
+                    "NED",
+                    "ROA",
+                    "WIFI"
+                ],
+                "addressLine1": "480 3rd Ave",
+                "addressLine3": "New York",
+                "addressLine4": "United States",
+                "subDivision": "NY",
+                "postcode": "10016",
+                "customAddress": "New York, NY 10016",
+                "telephone": "(212) 532-8186",
+                "restauranthours": {
+                    "hoursMonday": "06:30 - 00:00",
+                    "hoursTuesday": "06:30 - 00:00",
+                    "hoursWednesday": "00:00 - 00:00",
+                    "hoursThursday": "00:00 - 00:00",
+                    "hoursFriday": "00:00 - 00:00",
+                    "hoursSaturday": "00:00 - 00:00",
+                    "hoursSunday": "00:00 - 00:00"
+                },
+                "identifiers": {
+                    "storeIdentifier": [
+                        {
+                            "identifierType": "NATLSTRNUMBER",
+                            "identifierValue": "2813"
+                        },
+                        {
+                            "identifierType": "Entity",
+                            "identifierValue": "19483"
+                        },
+                        {
+                            "identifierType": "Region ID",
+                            "identifierValue": "30"
+                        },
+                        {
+                            "identifierType": "Co-Op",
+                            "identifierValue": "STAMFORD FIELD OFFICE"
+                        },
+                        {
+                            "identifierType": "Co-Op ID",
+                            "identifierValue": "246"
+                        },
+                        {
+                            "identifierType": "Co-Op Name",
+                            "identifierValue": "NEW YORK METRO"
+                        },
+                        {
+                            "identifierType": "TV-Market ID",
+                            "identifierValue": "16200"
+                        },
+                        {
+                            "identifierType": "TV-Market Name",
+                            "identifierValue": "NEW YORK CITY, NY"
+                        }
+                    ]
+                },
+                "birthDaysParties": "0",
+                "driveThru": "0",
+                "outDoorPlayGround": "0",
+                "indoorPlayGround": "0",
+                "wifi": "0",
+                "breakFast": "0",
+                "nightMenu": "0",
+                "giftCards": "0",
+                "mobileOffers": "0",
+                "restaurantUrl": "https://jobs.mchire.com/jobs?s\u003d480+3RD+AVE%2c+New+York%2c+NY",
+                "openstatus": "OPEN",
+                "identifierValue": "2813",
+                "timeZone": "(GMT-05:00) Eastern Time (US \u0026 Canada)",
+                "mcDeliveries": {
+                    "mcDelivery": [
+                        {
+                            "identifier": "DOORDASH",
+                            "marketingName": "Door Dash",
+                            "deliveryURL": "https://www.doordash.com/store/821321"
+                        },
+                        {
+                            "identifier": "GRUBHUB",
+                            "marketingName": "Grub Hub",
+                            "deliveryURL": "https://grubhub.com/restaurant/1338359?utm_source\u003dmcdonalds_website\u0026utm_medium\u003denterprise-rest_partner\u0026utm_campaign\u003drest-brand_5de59e10-3ba6-11e9-b0a9-3d145c71a10c\u0026utm_content\u003dmcdonalds"
+                        },
+                        {
+                            "identifier": "UBEREATS",
+                            "marketingName": "Uber Eats",
+                            "deliveryURL": "https://www.ubereats.com/store/mcdonalds-murray-hill-33rd-and-3rd/NcrmyrixRHSBZrtH8B1riA"
+                        },
+                        {
+                            "identifier": "MYMCDONALDS",
+                            "marketingName": "MyMcDonald\u0027s",
+                            "deliveryURL": "https://mcdonalds.smart.link/yotm502tc?site_id\u003ddownload-app\u0026amp;creative_id\u003d1col-publication"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.990724,
+                    40.750544
+                ]
+            },
+            "properties": {
+                "jobUrl": "https://jobs.mchire.com/jobs?s\u003d429+7TH+AVE%2c+New+York%2c+NY",
+                "MCDELIVERY_URL": "https://www.ubereats.com/store/mcdonalds-madison-square-garden-7th-ave-%26-33rd/VVyxLQxmQrK3Z9dlkZ0-bA",
+                "shortDescription": "34TH/7TH - MSG",
+                "longDescription": "34TH/7TH - ACROSS FROM MSG",
+                "todayHours": "00:00 - 00:00",
+                "driveTodayHours": "00:00 - 00:00",
+                "id": "195500281865:en-US",
+                "filterType": [
+                    "GIFTCARDS",
+                    "INDOORDINING",
+                    "KIOSKAUDIOACCESSIBILITY",
+                    "LINKEDPAY",
+                    "LOYALTY",
+                    "MCDELIVERY",
+                    "MOBILEOFFERS",
+                    "MOBILEORDERS",
+                    "NED",
+                    "ROA",
+                    "TWENTYFOURHOURS",
+                    "WIFI"
+                ],
+                "addressLine1": "429 7th Ave (Across From Msg)",
+                "addressLine3": "New York",
+                "addressLine4": "United States",
+                "subDivision": "NY",
+                "postcode": "10001",
+                "customAddress": "New York, NY 10001",
+                "telephone": "(212) 736-7890",
+                "restauranthours": {
+                    "hoursMonday": "00:00 - 00:00",
+                    "hoursTuesday": "00:00 - 00:00",
+                    "hoursWednesday": "00:00 - 00:00",
+                    "hoursThursday": "00:00 - 00:00",
+                    "hoursFriday": "00:00 - 00:00",
+                    "hoursSaturday": "00:00 - 00:00",
+                    "hoursSunday": "00:00 - 00:00"
+                },
+                "identifiers": {
+                    "storeIdentifier": [
+                        {
+                            "identifierType": "NATLSTRNUMBER",
+                            "identifierValue": "2276"
+                        },
+                        {
+                            "identifierType": "Entity",
+                            "identifierValue": "19376"
+                        },
+                        {
+                            "identifierType": "Region ID",
+                            "identifierValue": "30"
+                        },
+                        {
+                            "identifierType": "Co-Op",
+                            "identifierValue": "STAMFORD FIELD OFFICE"
+                        },
+                        {
+                            "identifierType": "Co-Op ID",
+                            "identifierValue": "246"
+                        },
+                        {
+                            "identifierType": "Co-Op Name",
+                            "identifierValue": "NEW YORK METRO"
+                        },
+                        {
+                            "identifierType": "TV-Market ID",
+                            "identifierValue": "16200"
+                        },
+                        {
+                            "identifierType": "TV-Market Name",
+                            "identifierValue": "NEW YORK CITY, NY"
+                        }
+                    ]
+                },
+                "birthDaysParties": "0",
+                "driveThru": "0",
+                "outDoorPlayGround": "0",
+                "indoorPlayGround": "0",
+                "wifi": "0",
+                "breakFast": "0",
+                "nightMenu": "0",
+                "giftCards": "0",
+                "mobileOffers": "0",
+                "restaurantUrl": "https://jobs.mchire.com/jobs?s\u003d429+7TH+AVE%2c+New+York%2c+NY",
+                "openstatus": "OPEN",
+                "identifierValue": "2276",
+                "timeZone": "(GMT-05:00) Eastern Time (US \u0026 Canada)",
+                "mcDeliveries": {
+                    "mcDelivery": [
+                        {
+                            "identifier": "DOORDASH",
+                            "marketingName": "Door Dash",
+                            "deliveryURL": "https://www.doordash.com/store/837202"
+                        },
+                        {
+                            "identifier": "GRUBHUB",
+                            "marketingName": "Grub Hub",
+                            "deliveryURL": "https://grubhub.com/restaurant/3121267?utm_source\u003dmcdonalds_website\u0026utm_medium\u003denterprise-rest_partner\u0026utm_campaign\u003drest-brand_5de59e10-3ba6-11e9-b0a9-3d145c71a10c\u0026utm_content\u003dmcdonalds"
+                        },
+                        {
+                            "identifier": "UBEREATS",
+                            "marketingName": "Uber Eats",
+                            "deliveryURL": "https://www.ubereats.com/store/mcdonalds-madison-square-garden-7th-ave-%26-33rd/VVyxLQxmQrK3Z9dlkZ0-bA"
+                        },
+                        {
+                            "identifier": "MYMCDONALDS",
+                            "marketingName": "MyMcDonald\u0027s",
+                            "deliveryURL": "https://mcdonalds.smart.link/yotm502tc?site_id\u003ddownload-app\u0026amp;creative_id\u003d1col-publication"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.999161,
+                    40.673519
+                ]
+            },
+            "properties": {
+                "jobUrl": "https://jobs.mchire.com/jobs?s\u003d357+HAMILTON+AVE%2c+Brooklyn%2c+NY",
+                "MCDELIVERY_URL": "https://www.ubereats.com/store/mcdonalds-brooklyn-357-hamilton-ave/Jg-88btpQ0eL3FWLEnyQlA",
+                "shortDescription": "BROOKLYN-HAMILTN",
+                "longDescription": "BROOKLYN-HAMILTN",
+                "todayHours": "06:00 - 22:00",
+                "driveTodayHours": "06:00 - 00:00",
+                "id": "195500283517:en-US",
+                "filterType": [
+                    "DRIVETHRU",
+                    "GIFTCARDS",
+                    "INDOORDINING",
+                    "LINKEDPAY",
+                    "LOYALTY",
+                    "MCDELIVERY",
+                    "MOBILEOFFERS",
+                    "MOBILEORDERS",
+                    "NED",
+                    "ROA",
+                    "WIFI"
+                ],
+                "addressLine1": "357 Hamilton Ave",
+                "addressLine3": "Brooklyn",
+                "addressLine4": "United States",
+                "subDivision": "NY",
+                "postcode": "11231",
+                "customAddress": "Brooklyn, NY 11231",
+                "telephone": "(718) 624-6688",
+                "restauranthours": {
+                    "hoursMonday": "06:00 - 22:00",
+                    "hoursTuesday": "06:00 - 22:00",
+                    "hoursWednesday": "06:00 - 22:00",
+                    "hoursThursday": "06:00 - 22:00",
+                    "hoursFriday": "06:00 - 22:00",
+                    "hoursSaturday": "06:00 - 22:00",
+                    "hoursSunday": "06:00 - 22:00"
+                },
+                "drivethruhours": {
+                    "driveHoursMonday": "06:00 - 00:00",
+                    "driveHoursTuesday": "06:00 - 00:00",
+                    "driveHoursWednesday": "06:00 - 00:00",
+                    "driveHoursThursday": "06:00 - 00:00",
+                    "driveHoursFriday": "00:00 - 00:00",
+                    "driveHoursSaturday": "00:00 - 00:00",
+                    "driveHoursSunday": "06:00 - 00:00"
+                },
+                "identifiers": {
+                    "storeIdentifier": [
+                        {
+                            "identifierType": "NATLSTRNUMBER",
+                            "identifierValue": "4344"
+                        },
+                        {
+                            "identifierType": "Entity",
+                            "identifierValue": "19752"
+                        },
+                        {
+                            "identifierType": "Region ID",
+                            "identifierValue": "30"
+                        },
+                        {
+                            "identifierType": "Co-Op",
+                            "identifierValue": "STAMFORD FIELD OFFICE"
+                        },
+                        {
+                            "identifierType": "Co-Op ID",
+                            "identifierValue": "246"
+                        },
+                        {
+                            "identifierType": "Co-Op Name",
+                            "identifierValue": "NEW YORK METRO"
+                        },
+                        {
+                            "identifierType": "TV-Market ID",
+                            "identifierValue": "16200"
+                        },
+                        {
+                            "identifierType": "TV-Market Name",
+                            "identifierValue": "NEW YORK CITY, NY"
+                        }
+                    ]
+                },
+                "birthDaysParties": "0",
+                "driveThru": "0",
+                "outDoorPlayGround": "0",
+                "indoorPlayGround": "0",
+                "wifi": "0",
+                "breakFast": "0",
+                "nightMenu": "0",
+                "giftCards": "0",
+                "mobileOffers": "0",
+                "restaurantUrl": "https://jobs.mchire.com/jobs?s\u003d357+HAMILTON+AVE%2c+Brooklyn%2c+NY",
+                "openstatus": "OPEN",
+                "identifierValue": "4344",
+                "timeZone": "(GMT-05:00) Eastern Time (US \u0026 Canada)",
+                "mcDeliveries": {
+                    "mcDelivery": [
+                        {
+                            "identifier": "DOORDASH",
+                            "marketingName": "Door Dash",
+                            "deliveryURL": "https://www.doordash.com/store/837690"
+                        },
+                        {
+                            "identifier": "GRUBHUB",
+                            "marketingName": "Grub Hub",
+                            "deliveryURL": "https://grubhub.com/restaurant/1339910?utm_source\u003dmcdonalds_website\u0026utm_medium\u003denterprise-rest_partner\u0026utm_campaign\u003drest-brand_5de59e10-3ba6-11e9-b0a9-3d145c71a10c\u0026utm_content\u003dmcdonalds"
+                        },
+                        {
+                            "identifier": "UBEREATS",
+                            "marketingName": "Uber Eats",
+                            "deliveryURL": "https://www.ubereats.com/store/mcdonalds-brooklyn-357-hamilton-ave/Jg-88btpQ0eL3FWLEnyQlA"
+                        },
+                        {
+                            "identifier": "MYMCDONALDS",
+                            "marketingName": "MyMcDonald\u0027s",
+                            "deliveryURL": "https://mcdonalds.smart.link/yotm502tc?site_id\u003ddownload-app\u0026amp;creative_id\u003d1col-publication"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.989538,
+                    40.750779
+                ]
+            },
+            "properties": {
+                "jobUrl": "https://careers.mcdonalds.com/us-restaurants/jobs?page\u003d1\u0026stretch\u003d0\u0026stretchUnit\u003dMILES\u0026location\u003d151%20WEST%2034TH%20STREET%20NEW%20YORK%20NY%2010001",
+                "shortDescription": "MACY\u0027S",
+                "longDescription": "151 WEST 34TH STREET",
+                "todayHours": "08:00 - 20:00",
+                "driveTodayHours": "08:00 - 20:00",
+                "id": "195500334431:en-US",
+                "filterType": [
+                    "GIFTCARDS",
+                    "INDOORDINING",
+                    "KIOSKAUDIOACCESSIBILITY",
+                    "LINKEDPAY",
+                    "LOYALTY",
+                    "MCDELIVERY",
+                    "MOBILEOFFERS",
+                    "MOBILEORDERS",
+                    "ROA",
+                    "WIFI"
+                ],
+                "addressLine1": "151 WEST 34TH STREET (Macy\u0027s 7th Floor)",
+                "addressLine3": "New York",
+                "addressLine4": "United States",
+                "subDivision": "NY",
+                "postcode": "10001",
+                "customAddress": "New York, NY 10001",
+                "telephone": "(212) 594-1964",
+                "restauranthours": {
+                    "hoursMonday": "10:00 - 21:00",
+                    "hoursTuesday": "10:00 - 21:00",
+                    "hoursWednesday": "08:00 - 20:00",
+                    "hoursThursday": "08:00 - 20:00",
+                    "hoursFriday": "08:00 - 20:00",
+                    "hoursSaturday": "08:00 - 20:00",
+                    "hoursSunday": "10:00 - 21:00"
+                },
+                "identifiers": {
+                    "storeIdentifier": [
+                        {
+                            "identifierType": "NATLSTRNUMBER",
+                            "identifierValue": "25055"
+                        },
+                        {
+                            "identifierType": "Entity",
+                            "identifierValue": "127285"
+                        },
+                        {
+                            "identifierType": "Region ID",
+                            "identifierValue": "30"
+                        },
+                        {
+                            "identifierType": "Co-Op",
+                            "identifierValue": "STAMFORD FIELD OFFICE"
+                        },
+                        {
+                            "identifierType": "Co-Op ID",
+                            "identifierValue": "246"
+                        },
+                        {
+                            "identifierType": "Co-Op Name",
+                            "identifierValue": "NEW YORK METRO"
+                        },
+                        {
+                            "identifierType": "TV-Market ID",
+                            "identifierValue": "16200"
+                        },
+                        {
+                            "identifierType": "TV-Market Name",
+                            "identifierValue": "NEW YORK CITY, NY"
+                        }
+                    ]
+                },
+                "birthDaysParties": "0",
+                "driveThru": "0",
+                "outDoorPlayGround": "0",
+                "indoorPlayGround": "0",
+                "wifi": "0",
+                "breakFast": "0",
+                "nightMenu": "0",
+                "giftCards": "0",
+                "mobileOffers": "0",
+                "restaurantUrl": "https://careers.mcdonalds.com/us-restaurants/jobs?page\u003d1\u0026stretch\u003d0\u0026stretchUnit\u003dMILES\u0026location\u003d151%20WEST%2034TH%20STREET%20NEW%20YORK%20NY%2010001",
+                "openstatus": "OPEN",
+                "identifierValue": "25055",
+                "timeZone": "(GMT-05:00) Eastern Time (US \u0026 Canada)"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.993004,
+                    40.75251
+                ]
+            },
+            "properties": {
+                "jobUrl": "https://jobs.mchire.com/jobs?s\u003d490+8TH+AVE%2c+MANHATTAN%2c+NY",
+                "MCDELIVERY_URL": "https://www.ubereats.com/store/mcdonalds-midtown-west-8th-ave-%26-34th/NeUjEQuQTbOPdCFmv_oURw",
+                "shortDescription": "MANH/8TH \u0026 34TH",
+                "longDescription": "MANH/8TH \u0026 34TH",
+                "todayHours": "00:00 - 00:00",
+                "driveTodayHours": "00:00 - 00:00",
+                "id": "195500282695:en-US",
+                "filterType": [
+                    "GIFTCARDS",
+                    "INDOORDINING",
+                    "LINKEDPAY",
+                    "LOYALTY",
+                    "MCDELIVERY",
+                    "MOBILEOFFERS",
+                    "MOBILEORDERS",
+                    "NED",
+                    "ROA",
+                    "TWENTYFOURHOURS",
+                    "WIFI"
+                ],
+                "addressLine1": "490 8th Ave",
+                "addressLine3": "Manhattan",
+                "addressLine4": "United States",
+                "subDivision": "NY",
+                "postcode": "10001",
+                "customAddress": "Manhattan, NY 10001",
+                "telephone": "(212) 947-0771",
+                "restauranthours": {
+                    "hoursMonday": "00:00 - 00:00",
+                    "hoursTuesday": "00:00 - 00:00",
+                    "hoursWednesday": "00:00 - 00:00",
+                    "hoursThursday": "00:00 - 00:00",
+                    "hoursFriday": "00:00 - 00:00",
+                    "hoursSaturday": "00:00 - 00:00",
+                    "hoursSunday": "00:00 - 00:00"
+                },
+                "identifiers": {
+                    "storeIdentifier": [
+                        {
+                            "identifierType": "NATLSTRNUMBER",
+                            "identifierValue": "3078"
+                        },
+                        {
+                            "identifierType": "Entity",
+                            "identifierValue": "19542"
+                        },
+                        {
+                            "identifierType": "Region ID",
+                            "identifierValue": "30"
+                        },
+                        {
+                            "identifierType": "Co-Op",
+                            "identifierValue": "STAMFORD FIELD OFFICE"
+                        },
+                        {
+                            "identifierType": "Co-Op ID",
+                            "identifierValue": "246"
+                        },
+                        {
+                            "identifierType": "Co-Op Name",
+                            "identifierValue": "NEW YORK METRO"
+                        },
+                        {
+                            "identifierType": "TV-Market ID",
+                            "identifierValue": "16200"
+                        },
+                        {
+                            "identifierType": "TV-Market Name",
+                            "identifierValue": "NEW YORK CITY, NY"
+                        }
+                    ]
+                },
+                "birthDaysParties": "0",
+                "driveThru": "0",
+                "outDoorPlayGround": "0",
+                "indoorPlayGround": "0",
+                "wifi": "0",
+                "breakFast": "0",
+                "nightMenu": "0",
+                "giftCards": "0",
+                "mobileOffers": "0",
+                "restaurantUrl": "https://jobs.mchire.com/jobs?s\u003d490+8TH+AVE%2c+MANHATTAN%2c+NY",
+                "openstatus": "OPEN",
+                "identifierValue": "3078",
+                "timeZone": "(GMT-05:00) Eastern Time (US \u0026 Canada)",
+                "mcDeliveries": {
+                    "mcDelivery": [
+                        {
+                            "identifier": "DOORDASH",
+                            "marketingName": "Door Dash",
+                            "deliveryURL": "https://www.doordash.com/store/837220"
+                        },
+                        {
+                            "identifier": "GRUBHUB",
+                            "marketingName": "Grub Hub",
+                            "deliveryURL": "https://grubhub.com/restaurant/1338141?utm_source\u003dmcdonalds_website\u0026utm_medium\u003denterprise-rest_partner\u0026utm_campaign\u003drest-brand_5de59e10-3ba6-11e9-b0a9-3d145c71a10c\u0026utm_content\u003dmcdonalds"
+                        },
+                        {
+                            "identifier": "UBEREATS",
+                            "marketingName": "Uber Eats",
+                            "deliveryURL": "https://www.ubereats.com/store/mcdonalds-midtown-west-8th-ave-%26-34th/NeUjEQuQTbOPdCFmv_oURw"
+                        },
+                        {
+                            "identifier": "MYMCDONALDS",
+                            "marketingName": "MyMcDonald\u0027s",
+                            "deliveryURL": "https://mcdonalds.smart.link/yotm502tc?site_id\u003ddownload-app\u0026amp;creative_id\u003d1col-publication"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}

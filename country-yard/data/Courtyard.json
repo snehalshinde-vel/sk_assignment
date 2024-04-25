@@ -1,0 +1,186 @@
+[
+    {
+        "Courtyard": [
+            {
+                "name": "Agra",
+                "phoneNo": "+91-562-2457750",
+                "faxNo": "+91 562-245-7788",
+                "email": "",
+                "address": "Taj Nagri, Phase II, Fatehabad Road,\n                Agra, Uttar Pradesh, India",
+                "Pincode": "282001",
+                "country": "India",
+                "state": "Uttar Pradesh",
+                "city": "Fatehabad Road,\n                Agra",
+                "location": [
+                    "27.156166",
+                    "78.05958"
+                ]
+            },
+            {
+                "name": "Ahmedabad",
+                "phoneNo": "+91-79-67000000",
+                "faxNo": "+91 79-67000010",
+                "email": "",
+                "address": "Sindhu Bhawan Road, Bodakdev,\n                Ahmedabad, India",
+                "Pincode": "380054",
+                "country": "India",
+                "state": "Bodakdev,\n                Ahmedabad",
+                "city": "Sindhu Bhawan Road",
+                "location": [
+                    "23.0402791",
+                    "72.5043967"
+                ]
+            },
+            {
+                "name": "Amritsar",
+                "phoneNo": "+91-183-5200000",
+                "faxNo": "+91 183-5200052",
+                "email": "",
+                "address": "52 Mall Road,\n                Amritsar, Punjab, India",
+                "Pincode": "143001",
+                "country": "India",
+                "state": "Punjab",
+                "city": "52 Mall Road,\n                Amritsar",
+                "location": [
+                    "31.639831",
+                    "74.888578"
+                ]
+            },
+            {
+                "name": "Bengaluru",
+                "phoneNo": "+1-800-321-2211",
+                "faxNo": "+91 80-61226778",
+                "email": "",
+                "address": "No 2/55 Outer Ring Road, Nagavara,\n                Bengaluru, Karnataka, India",
+                "Pincode": "560045",
+                "country": "India",
+                "state": "Karnataka",
+                "city": "Nagavara,\n                Bengaluru",
+                "location": [
+                    "13.042792",
+                    "77.609569"
+                ]
+            },
+            {
+                "name": "Bhopal",
+                "phoneNo": "+91-124-18001025000",
+                "faxNo": "+91 755-309-6222",
+                "email": "",
+                "address": "DB City - Arera Hills,\n                Bhopal, India",
+                "Pincode": "462011",
+                "country": "India",
+                "state": "DB City - Arera Hills,\n                Bhopal",
+                "city": null,
+                "location": [
+                    "23.232981",
+                    "77.429325"
+                ]
+            },
+            {
+                "name": "Bilaspur",
+                "phoneNo": "+91-7752-432222",
+                "faxNo": "+91 7752-432233",
+                "email": "",
+                "address": "Citymall 36, Mangla Chowk,\n                Bilaspur, Chhattisgarh, India",
+                "Pincode": "495001",
+                "country": "India",
+                "state": "Chhattisgarh",
+                "city": "Mangla Chowk,\n                Bilaspur",
+                "location": [
+                    "22.094417",
+                    "82.125833"
+                ]
+            },
+            {
+                "name": "Chennai",
+                "phoneNo": "+91-44-66764445",
+                "faxNo": "+91 44-66764001",
+                "email": "",
+                "address": "564 Anna Salai, Teynampet,\n                Chennai, India",
+                "Pincode": "600018",
+                "country": "India",
+                "state": "Teynampet,\n                Chennai",
+                "city": "564 Anna Salai",
+                "location": [
+                    "13.045817",
+                    "80.248019"
+                ]
+            },
+            {
+                "name": "Aravali",
+                "phoneNo": "+91-129-350-0900",
+                "faxNo": null,
+                "email": "",
+                "address": "96C6+H49, Gothda, Mohbtabad,\n                Faridabad, Haryana, India",
+                "Pincode": "121001",
+                "country": "India",
+                "state": "Haryana",
+                "city": "Mohbtabad,\n                Faridabad",
+                "location": [
+                    "28.3679714",
+                    "77.2113136"
+                ]
+            },
+            {
+                "name": "Hyderabad",
+                "phoneNo": "+1-800-102-5000",
+                "faxNo": "+91 40-65522888",
+                "email": "",
+                "address": "1-3-1024 Lower Tank Bund Road,\n                Hyderabad, India",
+                "Pincode": "500 080",
+                "country": "India",
+                "state": "1-3-1024 Lower Tank Bund Road,\n                Hyderabad",
+                "city": null,
+                "location": [
+                    "17.423778",
+                    "78.487979"
+                ]
+            },
+            {
+                "name": "Gurugram",
+                "phoneNo": "+1-0124-4888285",
+                "faxNo": "+91 124-4888222",
+                "email": "",
+                "address": "Plot no - 27 B, Sector Road, B Block, Sushant Lok - 1, Sector 27,\n                Gurugram Haryana, India",
+                "Pincode": "122 002",
+                "country": "India",
+                "state": "Sector 27,\n                Gurugram Haryana",
+                "city": "Sushant Lok - 1",
+                "location": [
+                    "28.460825",
+                    "77.080271"
+                ]
+            },
+            {
+                "name": "Gorakhpur",
+                "phoneNo": "+91-91-5513550000",
+                "faxNo": "+91 -3550000",
+                "email": "",
+                "address": "Ramgarh Tal, Nauka Vihar Road,\n                Gorakhpur, Uttar Pradesh, India",
+                "Pincode": "273001",
+                "country": "India",
+                "state": "Uttar Pradesh",
+                "city": "Nauka Vihar Road,\n                Gorakhpur",
+                "location": [
+                    "26.72569185804039",
+                    "83.39696079386799"
+                ]
+            },
+            {
+                "name": "Kochi",
+                "phoneNo": "+1-800-258-8088",
+                "faxNo": "+91 484-6693339",
+                "email": "",
+                "address": "VIP Road, Opposite Kochi International Airport, Nedumbassery, Vappalassery,\n                Kochi, India",
+                "Pincode": "683572",
+                "country": "India",
+                "state": "Vappalassery,\n                Kochi",
+                "city": "Nedumbassery",
+                "location": [
+                    "10.159811",
+                    "76.383331"
+                ]
+            }
+        ]
+    }
+]

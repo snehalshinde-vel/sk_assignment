@@ -1,0 +1,31 @@
+{
+    "the-ritz-carlton": [
+        "tusrz-the-ritz-carlton-dove-mountain",
+        "pnqrz-the-ritz-carlton-pune",
+        "nyccp-the-ritz-carlton-new-york-central-park",
+        "atlrz-the-ritz-carlton-atlanta",
+        "clerz-the-ritz-carlton-cleveland",
+        "whrrz-the-ritz-carlton-bachelor-gulch",
+        "denrz-the-ritz-carlton-denver",
+        "whrlh-the-ritz-carlton-club-vail",
+        "jaxam-the-ritz-carlton-amelia-island",
+        "miazl-the-ritz-carlton-bal-harbour-miami",
+        "miarz-the-ritz-carlton-coconut-grove-miami",
+        "fllrz-the-ritz-carlton-fort-lauderdale",
+        "miakb-the-ritz-carlton-key-biscayne-miami"
+    ],
+    "courtyard":[
+        "agrcy-courtyard-agra",
+        "amdsb-courtyard-ahmedabad-sindhu-bhavan-road",
+        "atqra-courtyard-amritsar",
+        "blrhb-courtyard-bengaluru-hebbal",
+        "bhocy-courtyard-bhopal",
+        "pabcy-courtyard-bilaspur",
+        "maacy-courtyard-chennai",
+        "delca-courtyard-aravali-resort",
+        "hydcy-courtyard-hyderabad",
+        "delgu-courtyard-gurugram-downtown",
+        "gopcy-courtyard-gorakhpur",
+        "cokap-courtyard-kochi-airport"
+    ]
+}

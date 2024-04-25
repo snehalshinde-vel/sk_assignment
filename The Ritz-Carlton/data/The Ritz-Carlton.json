@@ -1,0 +1,162 @@
+[
+    {
+        "The Ritz-Carlton": [
+            {
+                "name": "Dove Mountain",
+                "phoneNo": "+1 520-572-3001",
+                "address": "15000 North Secret Springs Drive,, Marana, Arizona, USA, 85658",
+                "Pincode": "85658",
+                "country": "USA",
+                "email": "",
+                "location": [
+                    "32.467144",
+                    "-111.100096"
+                ]
+            },
+            {
+                "name": "Pune",
+                "phoneNo": "+91 206-7675100",
+                "address": "Golf Course Square, Airport Road, Yerwada,, Pune, Maharashtra, India, 411006",
+                "Pincode": "411006",
+                "country": "India",
+                "email": "",
+                "location": [
+                    "18.552467770010395",
+                    "73.89099790656931"
+                ]
+            },
+            {
+                "name": "Central Park",
+                "phoneNo": "+1 212-497-2796",
+                "address": "50 Central Park South,, New York, New York, USA, 10019",
+                "Pincode": "10019",
+                "country": "USA",
+                "email": "",
+                "location": [
+                    "40.7652719",
+                    "-73.9759992"
+                ]
+            },
+            {
+                "name": "Atlanta",
+                "phoneNo": "+1 404-688-0400",
+                "address": "181 Peachtree Street, N.E.,, Atlanta, Georgia, USA, 30303",
+                "Pincode": "30303",
+                "country": "USA",
+                "email": "",
+                "location": [
+                    "33.758579",
+                    "-84.387154"
+                ]
+            },
+            {
+                "name": "Cleveland",
+                "phoneNo": "+1 216-623-1492",
+                "address": "1515 West Third Street,, Cleveland, Ohio, USA, 44113",
+                "Pincode": "44113",
+                "country": "USA",
+                "email": "",
+                "location": [
+                    "41.497425",
+                    "-81.694672"
+                ]
+            },
+            {
+                "name": "Bachelor Gulch",
+                "phoneNo": "+1 970-343-1070",
+                "address": "0130 Daybreak Ridge, P.O. Box 9190,, Avon, Colorado, USA, 81620",
+                "Pincode": "81620",
+                "country": "USA",
+                "email": "",
+                "location": [
+                    "39.622746",
+                    "-106.540728"
+                ]
+            },
+            {
+                "name": "Denver",
+                "phoneNo": "+1 303-312-3801",
+                "address": "1881 Curtis Street,, Denver, Colorado, USA, 80202",
+                "Pincode": "80202",
+                "country": "USA",
+                "email": "",
+                "location": [
+                    "39.749833",
+                    "-104.99138"
+                ]
+            },
+            {
+                "name": "Vail",
+                "phoneNo": "+1 970-477-3711",
+                "address": "728 West Lionshead Circle,, Vail, Colorado, USA, 81657",
+                "Pincode": "81657",
+                "country": "USA",
+                "email": "",
+                "location": [
+                    "39.643302",
+                    "-106.391473"
+                ]
+            },
+            {
+                "name": "Amelia Island",
+                "phoneNo": "+1 904-261-9064",
+                "address": "4750 Amelia Island Parkway,, Amelia Island, Florida, USA, 32034",
+                "Pincode": "32034",
+                "country": "USA",
+                "email": "",
+                "location": [
+                    "30.594186",
+                    "-81.445161"
+                ]
+            },
+            {
+                "name": "Miami",
+                "phoneNo": "+1 305-455-5397",
+                "address": "10295 Collins Avenue,, Bal Harbour, Florida, USA, 33154",
+                "Pincode": "33154",
+                "country": "USA",
+                "email": "",
+                "location": [
+                    "25.898738",
+                    "-80.1239"
+                ]
+            },
+            {
+                "name": "Miami",
+                "phoneNo": "+1 305-644-4681",
+                "address": "3300 SW 27th Avenue,, Miami, Florida, USA, 33133",
+                "Pincode": "33133",
+                "country": "USA",
+                "email": "",
+                "location": [
+                    "25.731483",
+                    "-80.237671"
+                ]
+            },
+            {
+                "name": "Fort Lauderdale",
+                "phoneNo": "+1 954-465-2340",
+                "address": "1 North Fort Lauderdale Beach Boulevard,, Fort Lauderdale, Florida, USA, 33304",
+                "Pincode": "33304",
+                "country": "USA",
+                "email": "",
+                "location": [
+                    "26.122631",
+                    "-80.104097"
+                ]
+            },
+            {
+                "name": "Miami",
+                "phoneNo": "+1 305-365-4505",
+                "address": "455 Grand Bay Drive, Key Biscayne,, Miami, Florida, USA, 33149",
+                "Pincode": "33149",
+                "country": "USA",
+                "email": "",
+                "location": [
+                    "25.6918851",
+                    "-80.162717"
+                ]
+            }
+        ]
+    }
+]

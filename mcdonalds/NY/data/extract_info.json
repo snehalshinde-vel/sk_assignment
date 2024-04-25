@@ -1,0 +1,312 @@
+{
+    "New York": [
+        {
+            "name": "160 BROADWAY",
+            "lat": -74.010086,
+            "lang": 40.709438,
+            "address": "160 Broadway, New York, NY, United States, 10038",
+            "pinCode": "10038",
+            "telephone": "(212) 385-2066",
+            "isOpen": "OPEN",
+            "timeZone": "(GMT-05:00) Eastern Time (US & Canada)"
+        },
+        {
+            "name": "CHAMBERS ST.",
+            "lat": -74.010736,
+            "lang": 40.716366,
+            "address": "167 Chambers St (Chambers & Greenwich), New York, NY, United States, 10013",
+            "pinCode": "10013",
+            "telephone": "(212) 608-2405",
+            "isOpen": "OPEN",
+            "timeZone": "(GMT-05:00) Eastern Time (US & Canada)"
+        },
+        {
+            "name": "MANHATTAN-CANAL",
+            "lat": -74.001052,
+            "lang": 40.718587,
+            "address": "262 Canal St, New York, NY, United States, 10013",
+            "pinCode": "10013",
+            "telephone": "(212) 941-5823",
+            "isOpen": "OPEN",
+            "timeZone": "(GMT-05:00) Eastern Time (US & Canada)"
+        },
+        {
+            "name": "DELANCY ST",
+            "lat": -73.988281,
+            "lang": 40.71883,
+            "address": "114 Delancey St, New York, NY, United States, 10002",
+            "pinCode": "10002",
+            "telephone": "(212) 529-9770",
+            "isOpen": "OPEN",
+            "timeZone": "(GMT-05:00) Eastern Time (US & Canada)"
+        },
+        {
+            "name": "VARICK ST NYC",
+            "lat": -74.00509,
+            "lang": 40.728794,
+            "address": "208 Varick St, New York, NY, United States, 10014",
+            "pinCode": "10014",
+            "telephone": "(646) 483-9817",
+            "isOpen": "OPEN",
+            "timeZone": "(GMT-05:00) Eastern Time (US & Canada)"
+        },
+        {
+            "name": "724 BROADWAY",
+            "lat": -73.993408,
+            "lang": 40.729197,
+            "address": "724 Broadway, New York, NY, United States, 10003",
+            "pinCode": "10003",
+            "telephone": "(212) 529-9660",
+            "isOpen": "OPEN",
+            "timeZone": "(GMT-05:00) Eastern Time (US & Canada)"
+        },
+        {
+            "name": "MANHATTAN-1ST AV",
+            "lat": -73.985855,
+            "lang": 40.726555,
+            "address": "102 1st Ave, New York, NY, United States, 10009",
+            "pinCode": "10009",
+            "telephone": "(212) 477-9171",
+            "isOpen": "OPEN",
+            "timeZone": "(GMT-05:00) Eastern Time (US & Canada)"
+        },
+        {
+            "name": "14TH & 1ST",
+            "lat": -73.982277,
+            "lang": 40.731014,
+            "address": "404 E 14th St, New York, NY, United States, 10009",
+            "pinCode": "10009",
+            "telephone": "(212) 598-0045",
+            "isOpen": "OPEN",
+            "timeZone": "(GMT-05:00) Eastern Time (US & Canada)"
+        },
+        {
+            "name": "NYC-AVE OF AMRCS",
+            "lat": -73.996726,
+            "lang": 40.737864,
+            "address": "541 6th Ave, New York, NY, United States, 10011",
+            "pinCode": "10011",
+            "telephone": "(212) 463-8869",
+            "isOpen": "OPEN",
+            "timeZone": "(GMT-05:00) Eastern Time (US & Canada)"
+        },
+        {
+            "name": "UNION SQUARE2702",
+            "lat": -73.990517,
+            "lang": 40.736977,
+            "address": "39 Union Square W, New York, NY, United States, 10003",
+            "pinCode": "10003",
+            "telephone": "(212) 645-9079",
+            "isOpen": "OPEN",
+            "timeZone": "(GMT-05:00) Eastern Time (US & Canada)"
+        },
+        {
+            "name": "686 6TH AVE",
+            "lat": -73.993286,
+            "lang": 40.741928,
+            "address": "686 6th Ave, New York, NY, United States, 10010",
+            "pinCode": "10010",
+            "telephone": "(212) 604-0621",
+            "isOpen": "OPEN",
+            "timeZone": "(GMT-05:00) Eastern Time (US & Canada)"
+        },
+        {
+            "name": "23 EAST 23RD ST.",
+            "lat": -73.987856,
+            "lang": 40.740654,
+            "address": "26 E 23rd St, New York, NY, United States, 10010",
+            "pinCode": "10010",
+            "telephone": "(646) 682-9277",
+            "isOpen": "OPEN",
+            "timeZone": "(GMT-05:00) Eastern Time (US & Canada)"
+        },
+        {
+            "name": "MANHATTAN-23RD",
+            "lat": -73.979165,
+            "lang": 40.736945,
+            "address": "336 E 23rd St, New York, NY, United States, 10010",
+            "pinCode": "10010",
+            "telephone": "(212) 228-5529",
+            "isOpen": "OPEN",
+            "timeZone": "(GMT-05:00) Eastern Time (US & Canada)"
+        },
+        {
+            "name": "PARK AVE-SO.",
+            "lat": -73.98393,
+            "lang": 40.743156,
+            "address": "401 Park Ave S, New York, NY, United States, 10016",
+            "pinCode": "10016",
+            "telephone": "(212) 683-4919",
+            "isOpen": "OPEN",
+            "timeZone": "(GMT-05:00) Eastern Time (US & Canada)"
+        },
+        {
+            "name": "NW YORK-3RD AVE",
+            "lat": -73.978949,
+            "lang": 40.744904,
+            "address": "480 3rd Ave, New York, NY, United States, 10016",
+            "pinCode": "10016",
+            "telephone": "(212) 532-8186",
+            "isOpen": "OPEN",
+            "timeZone": "(GMT-05:00) Eastern Time (US & Canada)"
+        },
+        {
+            "name": "34TH/7TH - MSG",
+            "lat": -73.990724,
+            "lang": 40.750544,
+            "address": "429 7th Ave (Across From Msg), New York, NY, United States, 10001",
+            "pinCode": "10001",
+            "telephone": "(212) 736-7890",
+            "isOpen": "OPEN",
+            "timeZone": "(GMT-05:00) Eastern Time (US & Canada)"
+        },
+        {
+            "name": "MACY'S",
+            "lat": -73.989538,
+            "lang": 40.750779,
+            "address": "151 WEST 34TH STREET (Macy's 7th Floor), New York, NY, United States, 10001",
+            "pinCode": "10001",
+            "telephone": "(212) 594-1964",
+            "isOpen": "OPEN",
+            "timeZone": "(GMT-05:00) Eastern Time (US & Canada)"
+        }
+    ],
+    "Brooklyn": [
+        {
+            "name": "BROOKLYN-COURT",
+            "lat": -73.991692,
+            "lang": 40.691383,
+            "address": "82 Court St, Brooklyn, NY, United States, 11201",
+            "pinCode": "11201",
+            "telephone": "(929) 450-4962",
+            "isOpen": "OPEN",
+            "timeZone": "(GMT-05:00) Eastern Time (US & Canada)"
+        },
+        {
+            "name": "FULTON MALL BKLN",
+            "lat": -73.986206,
+            "lang": 40.690838,
+            "address": "420 Fulton St, Brooklyn, NY, United States, 11201",
+            "pinCode": "11201",
+            "telephone": "(929) 431-6994",
+            "isOpen": "OPEN",
+            "timeZone": "(GMT-05:00) Eastern Time (US & Canada)"
+        },
+        {
+            "name": "BROOKLYN-395FLTB",
+            "lat": -73.98067,
+            "lang": 40.688963,
+            "address": "395 Flatbush Ave Exten, Brooklyn, NY, United States, 11201",
+            "pinCode": "11201",
+            "telephone": "(347) 315-3511",
+            "isOpen": "OPEN",
+            "timeZone": "(GMT-05:00) Eastern Time (US & Canada)"
+        },
+        {
+            "name": "ATLANTIC TERMINA",
+            "lat": -73.977473,
+            "lang": 40.684713,
+            "address": "139 Flatbush Ave (Atlantic Terminal), Brooklyn, NY, United States, 11217",
+            "pinCode": "11217",
+            "telephone": "(917) 618-6032",
+            "isOpen": "OPEN",
+            "timeZone": "(GMT-05:00) Eastern Time (US & Canada)"
+        },
+        {
+            "name": "267 BDWY BRKLYN",
+            "lat": -73.959017,
+            "lang": 40.70893,
+            "address": "267 Broadway, Brooklyn, NY, United States, 11211",
+            "pinCode": "11211",
+            "telephone": "(718) 302-3177",
+            "isOpen": "OPEN",
+            "timeZone": "(GMT-05:00) Eastern Time (US & Canada)"
+        },
+        {
+            "name": "BROOKLYN-HAMILTN",
+            "lat": -73.999161,
+            "lang": 40.673519,
+            "address": "357 Hamilton Ave, Brooklyn, NY, United States, 11231",
+            "pinCode": "11231",
+            "telephone": "(718) 624-6688",
+            "isOpen": "OPEN",
+            "timeZone": "(GMT-05:00) Eastern Time (US & Canada)"
+        }
+    ],
+    "Jersey City": [
+        {
+            "name": "NEWPORT CTR",
+            "lat": -74.0387,
+            "lang": 40.726501,
+            "address": "30 MALL DR W (Newport Center Mall), Jersey City, NJ, United States, 07310",
+            "pinCode": "07310",
+            "telephone": "(201) 604-3871",
+            "isOpen": "OPEN",
+            "timeZone": "(GMT-05:00) Eastern Time (US & Canada)"
+        },
+        {
+            "name": "JERSEY CY/GROVE",
+            "lat": -74.043057,
+            "lang": 40.719843,
+            "address": "325 Grove St, Jersey City, NJ, United States, 07303",
+            "pinCode": "07303",
+            "telephone": "(201) 333-7888",
+            "isOpen": "OPEN",
+            "timeZone": "(GMT-05:00) Eastern Time (US & Canada)"
+        },
+        {
+            "name": "HOLLAND TUNNEL",
+            "lat": -74.0426,
+            "lang": 40.729858,
+            "address": "197 12th St, Jersey City, NJ, United States, 07310",
+            "pinCode": "07310",
+            "telephone": "(201) 763-9994",
+            "isOpen": "OPEN",
+            "timeZone": "(GMT-05:00) Eastern Time (US & Canada)"
+        },
+        {
+            "name": "JERSEY OLD COLNY",
+            "lat": -74.053314,
+            "lang": 40.717419,
+            "address": "428 Grand St, Jersey City, NJ, United States, 07303",
+            "pinCode": "07303",
+            "telephone": "(201) 433-0055",
+            "isOpen": "OPEN",
+            "timeZone": "(GMT-05:00) Eastern Time (US & Canada)"
+        }
+    ],
+    "Hoboken": [
+        {
+            "name": "HOBOKEN-WASHNGTN",
+            "lat": -74.030396,
+            "lang": 40.739906,
+            "address": "234 Washington St, Hoboken, NJ, United States, 07030",
+            "pinCode": "07030",
+            "telephone": "(201) 798-2078",
+            "isOpen": "OPEN",
+            "timeZone": "(GMT-05:00) Eastern Time (US & Canada)"
+        }
+    ],
+    "Manhattan": [
+        {
+            "name": "NYC-809 6TH AVE",
+            "lat": -73.990845,
+            "lang": 40.745995,
+            "address": "809 Ave Of The Americas, Manhattan, NY, United States, 10001",
+            "pinCode": "10001",
+            "telephone": "(212) 463-9495",
+            "isOpen": "OPEN",
+            "timeZone": "(GMT-05:00) Eastern Time (US & Canada)"
+        },
+        {
+            "name": "MANH/8TH & 34TH",
+            "lat": -73.993004,
+            "lang": 40.75251,
+            "address": "490 8th Ave, Manhattan, NY, United States, 10001",
+            "pinCode": "10001",
+            "telephone": "(212) 947-0771",
+            "isOpen": "OPEN",
+            "timeZone": "(GMT-05:00) Eastern Time (US & Canada)"
+        }
+    ]
+}
